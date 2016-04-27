@@ -37,7 +37,7 @@ Organization
 * Notes: [Writeily](https://f-droid.org/repository/browse/?fdfilter=markdown&fdid=me.writeily)
 * To Do: [Tasks](https://f-droid.org/repository/browse/?fdfilter=tasks&fdid=org.tasks)
 
-Miscleanous
+Miscellaneous
 * Contacts: [DAVDroid](https://f-droid.org/repository/browse/?fdfilter=davdroid&fdid=at.bitfire.davdroid)
 * Conversion: [Equate](https://f-droid.org/repository/browse/?fdfilter=equate&fdid=com.llamacorp.equate)
 * Navigation: [OsmAnd](https://f-droid.org/repository/browse/?fdfilter=osmand&fdid=net.osmand.plus)

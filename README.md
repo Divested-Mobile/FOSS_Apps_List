@@ -8,6 +8,8 @@ Its highly recommended for you to install [F-Droid](https://f-droid.org/reposito
 * Themes: [Blue Minimal](https://f-droid.org/repository/browse/?fdfilter=blue+minimal&fdid=de.baumann.thema), [Greyscale](https://f-droid.org/repository/browse/?fdfilter=grey&fdid=it.lucci.cm.greyscaletheme)
 
 # Development
+* Bitbucket: [Bitbeaker](https://f-droid.org/repository/browse/?fdfilter=bitbucket&fdid=com.saibotd.bitbeaker)
+* Bugzilla: [BoogDroid](https://f-droid.org/repository/browse/?fdfilter=boogdroid&fdid=me.johnmh.boogdroid)
 * Gerrit: [mGerrit](https://f-droid.org/repository/browse/?fdfilter=gerrit&fdid=com.jbirdvegas.mgerrit)
 * GitHub: [OctoDroid](https://f-droid.org/repository/browse/?fdfilter=github&fdid=com.gh4a&)
 * GitLab: [LabCoat](https://f-droid.org/repository/browse/?fdfilter=labcoat&fdid=com.commit451.gitlab)
@@ -65,6 +67,7 @@ Its highly recommended for you to install [F-Droid](https://f-droid.org/reposito
 # Servers
 * Digital Ocean: [DO Swimmer](https://f-droid.org/repository/browse/?fdfilter=do+swimmer&fdid=com.yassirh.digitalocean)
 * Knocker: [Port Knocker](https://f-droid.org/repository/browse/?fdfilter=port+knocker&fdid=com.xargsgrep.portknocker)
+* Mongo: [Mongo Explorer](https://f-droid.org/repository/browse/?fdfilter=mongo&fdid=com.innodroid.mongobrowser)
 * Sickrage: [ShowsRage](https://f-droid.org/repository/browse/?fdfilter=sickrage&fdid=com.mgaetan89.showsrage)
 * SSH: [ConnectBot](https://f-droid.org/repository/browse/?fdfilter=connectbot&fdid=org.connectbot)
 * Torrents: [Transdroid](https://f-droid.org/repository/browse/?fdfilter=transdroid&fdid=org.transdroid.full)

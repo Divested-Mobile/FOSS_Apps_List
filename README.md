@@ -73,6 +73,7 @@ Social
 Utilities
 * Backup: [oandbackup](https://f-droid.org/repository/browse/?fdfilter=oandbackup&fdid=dk.jens.backup)
 * Barcode Scanner: [Barcode Scanner](https://f-droid.org/repository/browse/?fdfilter=barcode+scanner&fdid=com.google.zxing.client.android)
+* DM-Crypt Password Changer: [SnooperStopper](https://f-droid.org/repository/browse/?fdfilter=eutopia&fdid=cz.eutopia.snooperstopper)
 * Encryption: [OpenKeychain](https://f-droid.org/repository/browse/?fdfilter=openkeychain&fdid=org.sufficientlysecure.keychain)
 * File Server: [primitive ftpd](https://f-droid.org/repository/browse/?fdfilter=ftp&fdid=org.primftpd)
 * Kernel Tweaking: [Kernel Adiutor](https://f-droid.org/repository/browse/?fdfilter=kernel+adiutor&fdid=com.grarak.kerneladiutor)

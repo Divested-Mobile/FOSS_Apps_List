@@ -38,6 +38,7 @@ Its highly recommended for you to install [F-Droid](https://f-droid.org/reposito
 
 # Media
 * E-Books: [PageTurner](https://f-droid.org/repository/browse/?fdfilter=pageturner&fdid=net.nightwhistler.pageturner)
+* MPD: [MPDroid](https://f-droid.org/repository/browse/?fdfilter=mpd&fdid=com.namelessdev.mpdroid)
 * Music: [Timber](https://f-droid.org/repository/browse/?fdfilter=music&fdid=naman14.timber&fdpage=2)
 * Subsonic: [DSub](https://f-droid.org/repository/browse/?fdfilter=subsonic&fdid=github.daneren2005.dsub), [Subsonic](https://f-droid.org/repository/browse/?fdfilter=subsonic&fdid=net.sourceforge.subsonic.androidapp)
 * Videos: [VLC](https://f-droid.org/repository/browse/?fdfilter=vlc&fdid=org.videolan.vlc)

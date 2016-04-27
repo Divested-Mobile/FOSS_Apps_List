@@ -11,7 +11,7 @@ Its highly recommended for you to install [F-Droid](https://f-droid.org/reposito
 * Bitbucket: [Bitbeaker](https://f-droid.org/repository/browse/?fdfilter=bitbucket&fdid=com.saibotd.bitbeaker)
 * Bugzilla: [BoogDroid](https://f-droid.org/repository/browse/?fdfilter=boogdroid&fdid=me.johnmh.boogdroid)
 * Gerrit: [mGerrit](https://f-droid.org/repository/browse/?fdfilter=gerrit&fdid=com.jbirdvegas.mgerrit)
-* GitHub: [OctoDroid](https://f-droid.org/repository/browse/?fdfilter=github&fdid=com.gh4a&)
+* GitHub: [ForkHub](https://f-droid.org/repository/browse/?fdfilter=forkhub&fdid=jp.forkhub), [OctoDroid](https://f-droid.org/repository/browse/?fdfilter=github&fdid=com.gh4a)
 * GitLab: [LabCoat](https://f-droid.org/repository/browse/?fdfilter=labcoat&fdid=com.commit451.gitlab)
 
 # Documents

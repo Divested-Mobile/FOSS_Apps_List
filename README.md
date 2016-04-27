@@ -79,6 +79,7 @@ Its highly recommended for you to install [F-Droid](https://f-droid.org/reposito
 * IRC: [Atomic](https://f-droid.org/repository/browse/?fdfilter=atomic&fdid=indrora.atomic)
 * Mumble: [Plumble](https://f-droid.org/repository/browse/?fdfilter=orbot&fdid=com.morlunk.mumbleclient)
 * Reddit: [RedReader](https://f-droid.org/repository/browse/?fdfilter=redreader&fdid=org.quantumbadger.redreader), [Slide](https://f-droid.org/repository/browse/?fdid=me.ccrama.redditslide)
+* SIP: [Linphone](https://f-droid.org/repository/browse/?fdfilter=linphone&fdid=org.linphone)
 * SMS/MMS: [Silence](https://f-droid.org/repository/browse/?fdfilter=silence&fdid=org.smssecure.smssecure)
 * Twitter: [Twidere](https://f-droid.org/repository/browse/?fdfilter=twidere&fdid=org.mariotaku.twidere)
 * XMPP: [Conversations](https://f-droid.org/repository/browse/?fdfilter=conversations&fdid=eu.siacs.conversations)

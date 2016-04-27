@@ -1,3 +1,7 @@
+# Background
+
+Its highly recommended for you to install [F-Droid](https://f-droid.org/repository/browse/?fdfilter=f-droid&fdid=org.fdroid.fdroid) and then revist this list on your Android device
+
 # Customization
 * Icons: [Twelf](https://f-droid.org/repository/browse/?fdfilter=twelf&fdid=org.twelf.cmtheme)
 * Launcher: [KISS](https://f-droid.org/repository/browse/?fdfilter=kiss&fdid=fr.neamar.kiss)

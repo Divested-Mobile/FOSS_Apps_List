@@ -6,7 +6,7 @@
 # Customization
 * Icons: [Twelf](https://f-droid.org/repository/browse/?fdid=org.twelf.cmtheme)
 * Launcher: [KISS](https://f-droid.org/repository/browse/?fdid=fr.neamar.kiss)
-* Themes: [Blue Minimal](https://f-droid.org/repository/browse/?fdid=de.baumann.thema), [Greyscale](https://f-droid.org/repository/browse/?did=it.lucci.cm.greyscaletheme)
+* Themes: [Blue Minimal](https://f-droid.org/repository/browse/?fdid=de.baumann.thema), [Greyscale](https://f-droid.org/repository/browse/?fdid=it.lucci.cm.greyscaletheme)
 
 # Development
 * Bitbucket: [Bitbeaker](https://f-droid.org/repository/browse/?fdid=com.saibotd.bitbeaker)

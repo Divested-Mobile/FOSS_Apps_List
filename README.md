@@ -19,7 +19,7 @@
 # Documents
 * Office: [LibreOffice Viewer](https://f-droid.org/repository/browse/?fdfilter=document+viewer&fdid=org.documentfoundation.libreoffice)
 * PDF/XPS: [Document Viewer](https://f-droid.org/repository/browse/?fdfilter=document+viewer&fdid=org.sufficientlysecure.viewer) 
-* Printing: [JfCupsPrintService](https://f-droid.org/repository/browse/?fdid=com.jonbanjo.cupsprintservice)
+* Printing: [CUPS Print](https://f-droid.org/repository/browse/?fdid=io.github.benoitduffez.cupsprint), [JfCupsPrintService](https://f-droid.org/repository/browse/?fdid=com.jonbanjo.cupsprintservice)
 
 # Files
 * Hosting: [Nextcloud](https://f-droid.org/repository/browse/?fdid=com.nextcloud.client)

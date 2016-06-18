@@ -4,7 +4,8 @@
 * Regex for removing 'fdfilter' from URLs "fdfilter=[a-zA-Z]+&"
 
 # Customization
-* Icons: [Twelf](https://f-droid.org/repository/browse/?fdid=org.twelf.cmtheme)
+* Fonts: [Fira](https://f-droid.org/repository/browse/?fdid=org.mmk2410.cyngn.theme.fira)
+* Icons: [ICEcons](https://f-droid.org/repository/browse/?fdid=ovh.ice.icecons), [Twelf](https://f-droid.org/repository/browse/?fdid=org.twelf.cmtheme)
 * Launcher: [KISS](https://f-droid.org/repository/browse/?fdid=fr.neamar.kiss)
 * Themes: [Blue Minimal](https://f-droid.org/repository/browse/?fdid=de.baumann.thema), [Greyscale](https://f-droid.org/repository/browse/?fdid=it.lucci.cm.greyscaletheme)
 
@@ -21,7 +22,7 @@
 * Printing: [JfCupsPrintService](https://f-droid.org/repository/browse/?fdid=com.jonbanjo.cupsprintservice)
 
 # Files
-* Hosting: [OwnCloud](https://f-droid.org/repository/browse/?fdid=com.owncloud.android)
+* Hosting: [Nextcloud](https://f-droid.org/repository/browse/?fdid=com.nextcloud.client)
 * Syncing: [Syncthing](https://f-droid.org/repository/browse/?fdid=com.nutomic.syncthingandroid)
 
 # Games
@@ -41,6 +42,7 @@
 * E-Books: [PageTurner](https://f-droid.org/repository/browse/?fdid=net.nightwhistler.pageturner)
 * MPD: [MPDroid](https://f-droid.org/repository/browse/?fdid=com.namelessdev.mpdroid)
 * Music: [Timber](https://f-droid.org/repository/browse/?fdid=naman14.timber&fdpage=2)
+* Pictures: [LeafPic](https://f-droid.org/repository/browse/?fdid=com.horaapps.leafpic)
 * Subsonic: [DSub](https://f-droid.org/repository/browse/?fdid=github.daneren2005.dsub), [Subsonic](https://f-droid.org/repository/browse/?fdid=net.sourceforge.subsonic.androidapp)
 * Videos: [VLC](https://f-droid.org/repository/browse/?fdid=org.videolan.vlc)
 * YouTube: [NewPipe](https://f-droid.org/repository/browse/?fdid=org.schabi.newpipe), [SkyTube](https://f-droid.org/repository/browse/?fdid=free.rm.skytube.oss)
@@ -58,6 +60,11 @@
 * Translation: [Mitzuli](https://f-droid.org/repository/browse/?fdid=com.mitzuli)
 * Weather: [Forecastie](https://f-droid.org/repository/browse/?fdid=cz.martykan.forecastie)
 
+# Networks
+* Metasploit: [cSploit](https://f-droid.org/repository/browse/?ffdid=org.csploit.android)
+* Port Scanner: [Port Authority](https://f-droid.org/repository/browse/?fdid=com.aaronjwood.portauthority)
+* Wake On Lan: [Etherwake](https://f-droid.org/repository/browse/?fdid=org.schabi.etherwake)
+
 # Security
 * Firewalls: [AdAway](https://f-droid.org/repository/browse/?fdid=org.adaway), [AFWall+](https://f-droid.org/repository/browse/?fdid=dev.ukanth.ufirewall), [NetGuard](https://f-droid.org/repository/browse/?fdid=eu.faircode.netguard)
 * IMSI Catchers: [AIMSICD](https://f-droid.org/repository/browse/?fdid=com.SecUpwN.AIMSICD), [SnoopSnitch](https://f-droid.org/repository/browse/?fdid=de.srlabs.snoopsnitch)
@@ -73,7 +80,6 @@
 * Sickrage: [ShowsRage](https://f-droid.org/repository/browse/?fdid=com.mgaetan89.showsrage)
 * SSH: [ConnectBot](https://f-droid.org/repository/browse/?fdid=org.connectbot)
 * Torrents: [Transdroid](https://f-droid.org/repository/browse/?fdid=org.transdroid.full)
-* Wake On Lan: [Etherwake](https://f-droid.org/repository/browse/?fdid=org.schabi.etherwake)
 
 # Social
 * Email: [K-9 Mail](https://f-droid.org/repository/browse/?fdid=com.fsck.k9)

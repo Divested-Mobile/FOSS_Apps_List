@@ -49,7 +49,8 @@
 
 # Organization
 * Expenses: [My Expenses](https://f-droid.org/repository/browse/?fdid=org.totschnig.myexpenses)
-* Notes: [Writeily](https://f-droid.org/repository/browse/?fdid=me.writeily)
+* Habits: [Loop Habit Tracker](https://f-droid.org/repository/browse/?fdid=org.isoron.uhabits)
+* Notes: [Notepad](https://f-droid.org/repository/browse/?fdid=com.tomaszmarzeion.notepad), [Writeily](https://f-droid.org/repository/browse/?fdid=me.writeily)
 * To Do: [Tasks](https://f-droid.org/repository/browse/?fdid=org.tasks)
 
 # Miscellaneous
@@ -59,6 +60,7 @@
 * RSS: [spaRSS](https://f-droid.org/repository/browse/?fdid=net.etuldan.sparss.floss)
 * Translation: [Mitzuli](https://f-droid.org/repository/browse/?fdid=com.mitzuli)
 * Weather: [Forecastie](https://f-droid.org/repository/browse/?fdid=cz.martykan.forecastie)
+* Wikipedia: [Kiwix](https://f-droid.org/repository/browse/?fdid=org.kiwix.kiwixmobile), [Wikipedia](https://f-droid.org/repository/browse/?fdid=org.wikipedia)
 
 # Networks
 * Metasploit: [cSploit](https://f-droid.org/repository/browse/?ffdid=org.csploit.android)
@@ -100,7 +102,7 @@
 * Encryption: [OpenKeychain](https://f-droid.org/repository/browse/?fdid=org.sufficientlysecure.keychain)
 * File Server: [primitive ftpd](https://f-droid.org/repository/browse/?fdid=org.primftpd)
 * Kernel Tweaking: [Kernel Adiutor](https://f-droid.org/repository/browse/?fdfilter=kernel+adiutor&fdid=com.grarak.kerneladiutor)
-* Terminal: [Terminal Emulator](https://f-droid.org/repository/browse/?fdid=jackpal.androidterm)
+* Terminal: [Termux](https://f-droid.org/repository/browse/?fdid=com.termux), [Terminal Emulator](https://f-droid.org/repository/browse/?fdid=jackpal.androidterm)
 
 # Web Browsers
 * Chrome: [Chromium](https://f-droid.org/repository/browse/?fdid=com.anddevw.getchromium)

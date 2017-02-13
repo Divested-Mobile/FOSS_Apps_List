@@ -22,7 +22,7 @@
 * Printing: [CUPS Print](https://f-droid.org/repository/browse/?fdid=io.github.benoitduffez.cupsprint)
 
 # Files
-* Hosting: [Nextcloud](https://f-droid.org/repository/browse/?fdid=com.nextcloud.client)
+* Hosting: [Nextcloud](https://f-droid.org/repository/browse/?fdid=com.nextcloud.android.beta)
 * Syncing: [Syncthing](https://f-droid.org/repository/browse/?fdid=com.nutomic.syncthingandroid)
 * Torrent Client: [LibreTorrent](https://f-droid.org/repository/browse/?fdid=org.proninyaroslav.libretorrent)
 
@@ -39,7 +39,7 @@
 
 # Location
 * Provider: [UnifiedNLP](https://f-droid.org/repository/browse/?fdid=org.microg.nlp)
-* Location Backend: [LocalWiFiNlpBackend](https://f-droid.org/repository/browse/?fdid=org.fitchfamily.android.wifi_backend), [LocalGsmNlpBackend](https://f-droid.org/repository/browse/?fdid=org.fitchfamily.android.gsmlocation)
+* Location Backend: [LocalWiFiNlpBackend](https://f-droid.org/repository/browse/?fdid=org.fitchfamily.android.wifi_backend), [LocalGsmNlpBackend](https://f-droid.org/repository/browse/?fdid=org.fitchfamily.android.gsmlocation) [MozillaNlpBackend](https://f-droid.org/repository/browse/?fdid=org.microg.nlp.backend.ichnaea)
 * Reverse Lookup Backend: [NominatimNlpBackend](https://f-droid.org/repository/browse/?fdid=org.microg.nlp.backend.nominatim)
 
 # Media
@@ -62,6 +62,7 @@
 * Conversion: [Unit Converter Ultimate](https://f-droid.org/repository/browse/?fdid=com.physphil.android.unitconverterultimate)
 * Loyalty Cards: [Loyalty Card Keychain](https://f-droid.org/repository/browse/?fdid=protect.card_locker)
 * Navigation: [OsmAnd](https://f-droid.org/repository/browse/?fdid=net.osmand.plus)
+* OBD2 Reader: [OBD-II Reader](https://f-droid.org/repository/browse/?fdid=com.github.pires.obd.reader)
 * RSS: [spaRSS](https://f-droid.org/repository/browse/?fdid=net.etuldan.sparss.floss)
 * Translation: [Mitzuli](https://f-droid.org/repository/browse/?fdid=com.mitzuli)
 * Weather: [Forecastie](https://f-droid.org/repository/browse/?fdid=cz.martykan.forecastie)
@@ -76,7 +77,7 @@
 # Security
 * Firewalls: [AdAway](https://f-droid.org/repository/browse/?fdid=org.adaway), [AFWall+](https://f-droid.org/repository/browse/?fdid=dev.ukanth.ufirewall), [NetGuard](https://f-droid.org/repository/browse/?fdid=eu.faircode.netguard), [DNS66](https://f-droid.org/repository/browse/?fdid=org.jak_linux.dns66)
 * IMSI Catchers: [AIMSICD](https://f-droid.org/repository/browse/?fdid=com.SecUpwN.AIMSICD), [SnoopSnitch](https://f-droid.org/repository/browse/?fdid=de.srlabs.snoopsnitch)
-* Passwords: [Keepass](https://f-droid.org/repository/browse/?fdid=com.android.keepass), [Password Safe](https://f-droid.org/repository/browse/?fdid=com.jefftharris.passwdsafe&fdpage=2), [Password Store](https://f-droid.org/repository/browse/?fdid=com.zeapo.pwdstore), [Twik](https://f-droid.org/repository/browse/?fdid=com.reddyetwo.hashmypass.app)
+* Passwords: [Keepass](https://f-droid.org/repository/browse/?fdid=com.android.keepass), [Password Safe](https://f-droid.org/repository/browse/?fdid=com.jefftharris.passwdsafe), [Password Store](https://f-droid.org/repository/browse/?fdid=com.zeapo.pwdstore), [Twik](https://f-droid.org/repository/browse/?fdid=com.reddyetwo.hashmypass.app)
 * Proxies/Tunnels: [AndIodine](https://f-droid.org/repository/browse/?fdid=org.xapek.andiodine), [I2P](https://f-droid.org/repository/browse/?fdid=net.i2p.android.router), [OpenVPN](https://f-droid.org/repository/browse/?fdid=de.blinkt.openvpn), [Orbot](https://f-droid.org/repository/browse/?fdid=org.torproject.android)
 * Two Factor Authenticaton: [FreeOTP](https://f-droid.org/repository/browse/?fdid=org.fedorahosted.freeotp), [Yubico](https://f-droid.org/repository/browse/?fdid=com.yubico.yubioath)
 * Wi-Fi Spoofing Protection: [Wi-Fi Privacy Police](https://f-droid.org/repository/browse/?fdid=be.uhasselt.privacypolice)
@@ -91,7 +92,7 @@
 # Social
 * Email: [K-9 Mail](https://f-droid.org/repository/browse/?fdid=com.fsck.k9)
 * Facebook: [Face Slim](https://f-droid.org/repository/browse/?fdid=org.indywidualni.fblite)
-* IRC: [Atomic](https://f-droid.org/repository/browse/?fdid=indrora.atomic)
+* IRC: [Simple IRC(https://f-droid.org/repository/browse/?fdid=tk.jordynsmediagroup.simpleirc.fdroid)
 * Hacker News: [Materialistic](https://f-droid.org/repository/browse/?fdid=io.github.hidroh.materialistic)
 * Mumble: [Plumble](https://f-droid.org/repository/browse/?fdid=com.morlunk.mumbleclient)
 * Reddit: [RedReader](https://f-droid.org/repository/browse/?fdid=org.quantumbadger.redreader), [Slide](https://f-droid.org/repository/browse/?fdid=me.ccrama.redditslide)
@@ -108,14 +109,16 @@
 * DM-Crypt Password Changer: [SnooperStopper](https://f-droid.org/repository/browse/?fdid=cz.eutopia.snooperstopper)
 * Encryption: [OpenKeychain](https://f-droid.org/repository/browse/?fdid=org.sufficientlysecure.keychain)
 * File Server: [primitive ftpd](https://f-droid.org/repository/browse/?fdid=org.primftpd)
+* GPS Tester: [SatStat](https://f-droid.org/repository/browse/?fdid=com.vonglasow.michael.satstat)
 * Kernel Tweaking: [Kernel Adiutor](https://f-droid.org/repository/browse/?fdid=com.grarak.kerneladiutor)
+* Network Monitor: [Net Monitor](https://f-droid.org/repository/browse/?fdid=org.secuso.privacyfriendlynetmonitor)
 * Steganography: [Pixel Knot](https://f-droid.org/repository/browse/?fdid=info.guardianproject.pixelknot)
-* Terminal: [Termux](https://f-droid.org/repository/browse/?fdid=com.termux), [Terminal Emulator](https://f-droid.org/repository/browse/?fdid=jackpal.androidterm)
+* Terminal: [Termux](https://f-droid.org/repository/browse/?fdid=com.termux)
 
 # Web Browsers
-* Chrome: [Chromium](https://f-droid.org/repository/browse/?fdid=com.anddevw.getchromium)
+* Chrome: [Chromium](https://f-droid.org/repository/browse/?fdid=com.dosse.chromiumautoupdater)
 * Firefox: [IceCat](https://f-droid.org/repository/browse/?fdid=org.gnu.icecat)
 * Tor Browser: [Orfox](https://f-droid.org/repository/browse/?fdid=info.guardianproject.orfox)
 * Only use apps from the next two categories if you know you explicitly have an updated Chromium WebView installed
-* Webview: [Privacy Browser](https://f-droid.org/repository/browse/?fdid=com.stoutner.privacybrowser.standard), [Lightning](https://f-droid.org/repository/browse/?fdid=acr.browser.lightning)
+* Webview: [Privacy Browser](https://f-droid.org/repository/browse/?fdid=com.stoutner.privacybrowser.standard)
 * Webview Sandbox: [WebApps](https://f-droid.org/repository/browse/?fdid=com.tobykurien.webapps)

@@ -2,6 +2,7 @@
 
 * Its highly recommended for you to install [F-Droid](https://f-droid.org/repository/browse/?fdid=org.fdroid.fdroid) and then revist this list on your Android device
 * Regex for removing 'fdfilter' from URLs "fdfilter=[a-zA-Z]+&"
+* Command to convert from md to html: pandoc -f markdown -t html README.md -o faa.html
 
 # Customization
 * Fonts: [Fira](https://f-droid.org/repository/browse/?fdid=org.mmk2410.cyngn.theme.fira)

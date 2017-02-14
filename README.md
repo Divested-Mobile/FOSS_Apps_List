@@ -2,7 +2,7 @@
 
 * Its highly recommended for you to install [F-Droid](https://f-droid.org/repository/browse/?fdid=org.fdroid.fdroid) and then revist this list on your Android device
 * Regex for removing 'fdfilter' from URLs "fdfilter=[a-zA-Z]+&"
-* Command to convert from md to html: pandoc -f markdown -t html README.md -o faa.html
+* Command to convert from md to html: pandoc -f markdown -t html README.md -o index.html
 
 # Customization
 * Fonts: [Fira](https://f-droid.org/repository/browse/?fdid=org.mmk2410.cyngn.theme.fira)
@@ -72,6 +72,7 @@
 * Navigation: [OsmAnd](https://f-droid.org/repository/browse/?fdid=net.osmand.plus)
 * OBD2 Reader: [OBD-II Reader](https://f-droid.org/repository/browse/?fdid=com.github.pires.obd.reader)
 * RSS: [spaRSS](https://f-droid.org/repository/browse/?fdid=net.etuldan.sparss.floss)
+* Steganography: [Pixel Knot](https://f-droid.org/repository/browse/?fdid=info.guardianproject.pixelknot)
 * Translation: [Mitzuli](https://f-droid.org/repository/browse/?fdid=com.mitzuli)
 * Weather: [Forecastie](https://f-droid.org/repository/browse/?fdid=cz.martykan.forecastie)
 * Wikipedia: [Kiwix](https://f-droid.org/repository/browse/?fdid=org.kiwix.kiwixmobile), [Wikipedia](https://f-droid.org/repository/browse/?fdid=org.wikipedia)
@@ -120,7 +121,6 @@
 * GPS Tester: [SatStat](https://f-droid.org/repository/browse/?fdid=com.vonglasow.michael.satstat)
 * Kernel Tweaking: [Kernel Adiutor](https://f-droid.org/repository/browse/?fdid=com.grarak.kerneladiutor)
 * Network Monitor: [Net Monitor](https://f-droid.org/repository/browse/?fdid=org.secuso.privacyfriendlynetmonitor)
-* Steganography: [Pixel Knot](https://f-droid.org/repository/browse/?fdid=info.guardianproject.pixelknot)
 * Terminal: [Termux](https://f-droid.org/repository/browse/?fdid=com.termux)
 
 # Web Browsers

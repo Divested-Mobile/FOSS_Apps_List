@@ -36,9 +36,16 @@
 * Scrabble: [Crosswords](https://f-droid.org/repository/browse/?fdid=org.eehouse.android.xw4)
 * Solitaire: [Simple Solitaire](https://f-droid.org/repository/browse/?fdid=de.tobiasbielefeld.solitaire)
 * Tetris: [Blockinger](https://f-droid.org/repository/browse/?fdid=org.blockinger.game)
+* Tower Defence: [Anuto](https://f-droid.org/repository/browse?fdid=ch.logixisland.anuto)
+
+# Health
+* Cycling: [AAT](https://f-droid.org/repository/browse?fdid=ch.bailu.aat)
+* Jogging: [RunnerUp](https://f-droid.org/repository/browse?fdid=org.runnerup)
+* Pedometer: [Pedometer](https://f-droid.org/repository/browse?fdid=org.secuso.privacyfriendlyactivitytracker)
+* Workout: [Sieben](https://f-droid.org/repository/browse?fdid=de.baumann.sieben)
 
 # Location
-* Provider: [UnifiedNLP](https://f-droid.org/repository/browse/?fdid=org.microg.nlp)
+* Provider (If no MicroG): [UnifiedNLP](https://f-droid.org/repository/browse/?fdid=org.microg.nlp)
 * Location Backend: [LocalWiFiNlpBackend](https://f-droid.org/repository/browse/?fdid=org.fitchfamily.android.wifi_backend), [LocalGsmNlpBackend](https://f-droid.org/repository/browse/?fdid=org.fitchfamily.android.gsmlocation) [MozillaNlpBackend](https://f-droid.org/repository/browse/?fdid=org.microg.nlp.backend.ichnaea)
 * Reverse Lookup Backend: [NominatimNlpBackend](https://f-droid.org/repository/browse/?fdid=org.microg.nlp.backend.nominatim)
 
@@ -92,7 +99,7 @@
 # Social
 * Email: [K-9 Mail](https://f-droid.org/repository/browse/?fdid=com.fsck.k9)
 * Facebook: [Face Slim](https://f-droid.org/repository/browse/?fdid=org.indywidualni.fblite)
-* IRC: [Simple IRC(https://f-droid.org/repository/browse/?fdid=tk.jordynsmediagroup.simpleirc.fdroid)
+* IRC: [Simple IRC](https://f-droid.org/repository/browse/?fdid=tk.jordynsmediagroup.simpleirc.fdroid)
 * Hacker News: [Materialistic](https://f-droid.org/repository/browse/?fdid=io.github.hidroh.materialistic)
 * Mumble: [Plumble](https://f-droid.org/repository/browse/?fdid=com.morlunk.mumbleclient)
 * Reddit: [RedReader](https://f-droid.org/repository/browse/?fdid=org.quantumbadger.redreader), [Slide](https://f-droid.org/repository/browse/?fdid=me.ccrama.redditslide)

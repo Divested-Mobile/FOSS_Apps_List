@@ -62,10 +62,11 @@
 # Organization
 * Expenses: [My Expenses](https://f-droid.org/repository/browse/?fdid=org.totschnig.myexpenses)
 * Habits: [Loop Habit Tracker](https://f-droid.org/repository/browse/?fdid=org.isoron.uhabits)
-* Notes: [Memento](https://f-droid.org/repository/browse/?fdid=github.yaa110.memento)
+* Notes: [Notes](https://f-droid.org/repository/browse/?fdid=org.secuso.privacyfriendlynotes)
 * To Do: [Tasks](https://f-droid.org/repository/browse/?fdid=org.tasks)
 
 # Miscellaneous
+* Bitcoin: [Bitcoin Wallet](https://f-droid.org/repository/browse/?fdid=de.schildbach.wallet)
 * Contacts: [DAVDroid](https://f-droid.org/repository/browse/?fdid=at.bitfire.davdroid)
 * Conversion: [Unit Converter Ultimate](https://f-droid.org/repository/browse/?fdid=com.physphil.android.unitconverterultimate)
 * Loyalty Cards: [Loyalty Card Keychain](https://f-droid.org/repository/browse/?fdid=protect.card_locker)
@@ -115,6 +116,7 @@
 * Backup: [oandbackup](https://f-droid.org/repository/browse/?fdid=dk.jens.backup)
 * Barcode Scanner: [Barcode Scanner](https://f-droid.org/repository/browse/?fdid=com.google.zxing.client.android)
 * Battery Monitoring: [BatteryBot](https://f-droid.org/repository/browse/?fdid=com.darshancomputing.BatteryIndicatorPro)
+* Clipboard History: [Clip Stack](https://f-droid.org/repository/browse/?fdid=com.catchingnow.tinyclipboardmanager)
 * DM-Crypt Password Changer: [SnooperStopper](https://f-droid.org/repository/browse/?fdid=cz.eutopia.snooperstopper)
 * Encryption: [OpenKeychain](https://f-droid.org/repository/browse/?fdid=org.sufficientlysecure.keychain)
 * File Server: [primitive ftpd](https://f-droid.org/repository/browse/?fdid=org.primftpd)
@@ -125,8 +127,7 @@
 
 # Web Browsers
 * Chrome: [Chromium](https://f-droid.org/repository/browse/?fdid=com.dosse.chromiumautoupdater)
-* Firefox: [IceCat](https://f-droid.org/repository/browse/?fdid=org.gnu.icecat)
+* Firefox: [Fennec](https://f-droid.org/repository/browse/?fdid=org.mozilla.fennec_fdroid), [IceCat](https://f-droid.org/repository/browse/?fdid=org.gnu.icecat)
 * Tor Browser: [Orfox](https://f-droid.org/repository/browse/?fdid=info.guardianproject.orfox)
-* Only use apps from the next two categories if you know you explicitly have an updated Chromium WebView installed
 * Webview: [Privacy Browser](https://f-droid.org/repository/browse/?fdid=com.stoutner.privacybrowser.standard)
 * Webview Sandbox: [WebApps](https://f-droid.org/repository/browse/?fdid=com.tobykurien.webapps)

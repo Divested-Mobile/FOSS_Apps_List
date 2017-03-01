@@ -36,6 +36,7 @@
 * Roguelike: [Shattered Pixel Dungeon](https://f-droid.org/repository/browse/?fdid=com.shatteredpixel.shatteredpixeldungeon)
 * Scrabble: [Crosswords](https://f-droid.org/repository/browse/?fdid=org.eehouse.android.xw4)
 * Solitaire: [Simple Solitaire](https://f-droid.org/repository/browse/?fdid=de.tobiasbielefeld.solitaire)
+* Sudoku: [Sudoku](https://f-droid.org/repository/browse/?fdid=org.secuso.privacyfriendlysudoku)
 * Tetris: [Blockinger](https://f-droid.org/repository/browse/?fdid=org.blockinger.game)
 * Tower Defence: [Anuto](https://f-droid.org/repository/browse?fdid=ch.logixisland.anuto)
 
@@ -54,7 +55,7 @@
 * E-Books: [PageTurner](https://f-droid.org/repository/browse/?fdid=net.nightwhistler.pageturner)
 * MPD: [MPDroid](https://f-droid.org/repository/browse/?fdid=com.namelessdev.mpdroid)
 * Music: [Timber](https://f-droid.org/repository/browse/?fdid=naman14.timber)
-* Pictures: [LeafPic](https://f-droid.org/repository/browse/?fdid=org.horaapps.leafpic)
+* Pictures: [Gallery](https://f-droid.org/repository/browse/?fdid=com.simplemobiletools.gallery)
 * Subsonic: [DSub](https://f-droid.org/repository/browse/?fdid=github.daneren2005.dsub)
 * Videos: [VLC](https://f-droid.org/repository/browse/?fdid=org.videolan.vlc)
 * YouTube: [SkyTube](https://f-droid.org/repository/browse/?fdid=free.rm.skytube.oss), [NewPipe](https://f-droid.org/repository/browse/?fdid=org.schabi.newpipe)
@@ -63,6 +64,7 @@
 * Expenses: [My Expenses](https://f-droid.org/repository/browse/?fdid=org.totschnig.myexpenses)
 * Habits: [Loop Habit Tracker](https://f-droid.org/repository/browse/?fdid=org.isoron.uhabits)
 * Notes: [Notes](https://f-droid.org/repository/browse/?fdid=org.secuso.privacyfriendlynotes)
+* Orgmode: [Orgzly](https://f-droid.org/repository/browse/?fdid=com.orgzly)
 * To Do: [Tasks](https://f-droid.org/repository/browse/?fdid=org.tasks)
 
 # Miscellaneous
@@ -70,6 +72,7 @@
 * Contacts: [DAVDroid](https://f-droid.org/repository/browse/?fdid=at.bitfire.davdroid)
 * Conversion: [Unit Converter Ultimate](https://f-droid.org/repository/browse/?fdid=com.physphil.android.unitconverterultimate)
 * Loyalty Cards: [Loyalty Card Keychain](https://f-droid.org/repository/browse/?fdid=protect.card_locker)
+* Play Store: [Yalp Store](https://f-droid.org/repository/browse/?fdid=com.github.yeriomin.yalpstore)
 * Navigation: [OsmAnd](https://f-droid.org/repository/browse/?fdid=net.osmand.plus)
 * OBD2 Reader: [OBD-II Reader](https://f-droid.org/repository/browse/?fdid=com.github.pires.obd.reader)
 * RSS: [spaRSS](https://f-droid.org/repository/browse/?fdid=net.etuldan.sparss.floss)
@@ -101,18 +104,21 @@
 
 # Social
 * Email: [K-9 Mail](https://f-droid.org/repository/browse/?fdid=com.fsck.k9)
-* Facebook: [Face Slim](https://f-droid.org/repository/browse/?fdid=org.indywidualni.fblite)
+* Facebook: [Face Slim](https://f-droid.org/repository/browse/?fdid=org.indywidualni.fblite), [MaterialFBook](https://f-droid.org/repository/browse/?fdid=me.zeeroooo.materialfb)
 * IRC: [Simple IRC](https://f-droid.org/repository/browse/?fdid=tk.jordynsmediagroup.simpleirc.fdroid)
-* Hacker News: [Materialistic](https://f-droid.org/repository/browse/?fdid=io.github.hidroh.materialistic)
+* Matrix: [Riot](https://f-droid.org/repository/browse/?fdid=im.vector.alpha)
 * Mumble: [Plumble](https://f-droid.org/repository/browse/?fdid=com.morlunk.mumbleclient)
-* Reddit: [RedReader](https://f-droid.org/repository/browse/?fdid=org.quantumbadger.redreader), [Slide](https://f-droid.org/repository/browse/?fdid=me.ccrama.redditslide)
 * SIP: [Linphone](https://f-droid.org/repository/browse/?fdid=org.linphone)
 * SMS/MMS: [Silence](https://f-droid.org/repository/browse/?fdid=org.smssecure.smssecure)
 * Twitter: [Twidere](https://f-droid.org/repository/browse/?fdid=org.mariotaku.twidere)
 * XMPP: [Conversations](https://f-droid.org/repository/browse/?fdid=eu.siacs.conversations)
 
+# Social Forum
+* *Chan: [Clover](https://f-droid.org/repository/browse/?fdid=org.floens.chan)
+* Hacker News: [Materialistic](https://f-droid.org/repository/browse/?fdid=io.github.hidroh.materialistic)
+* Reddit: [RedReader](https://f-droid.org/repository/browse/?fdid=org.quantumbadger.redreader), [Slide](https://f-droid.org/repository/browse/?fdid=me.ccrama.redditslide)
+
 # Utilities
-* App Updates: [ApkTrack](https://f-droid.org/repository/browse/?fdid=fr.kwiatkowski.ApkTrack)
 * Backup: [oandbackup](https://f-droid.org/repository/browse/?fdid=dk.jens.backup)
 * Barcode Scanner: [Barcode Scanner](https://f-droid.org/repository/browse/?fdid=com.google.zxing.client.android)
 * Battery Monitoring: [BatteryBot](https://f-droid.org/repository/browse/?fdid=com.darshancomputing.BatteryIndicatorPro)

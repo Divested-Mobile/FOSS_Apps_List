@@ -5,6 +5,7 @@
 * Command to convert from md to html: pandoc -f markdown -t html README.md -o index.html
 
 # Customization
+* Keyboard: [AnySoftKeyboard](https://f-droid.org/repository/browse/?fdid=com.menny.android.anysoftkeyboard)
 * Fonts: [Fira](https://f-droid.org/repository/browse/?fdid=org.mmk2410.cyngn.theme.fira)
 * Icons: [Twelf](https://f-droid.org/repository/browse/?fdid=org.twelf.cmtheme), [ICEcons](https://f-droid.org/repository/browse/?fdid=ovh.ice.icecons)
 * Launcher: [KISS](https://f-droid.org/repository/browse/?fdid=fr.neamar.kiss)
@@ -53,10 +54,10 @@
 
 # Media
 * E-Books: [PageTurner](https://f-droid.org/repository/browse/?fdid=net.nightwhistler.pageturner)
+* Libresonic: [Audinaut](https://f-droid.org/repository/browse/?fdid=net.nullsum.audinaut)
 * MPD: [MPDroid](https://f-droid.org/repository/browse/?fdid=com.namelessdev.mpdroid)
 * Music: [Timber](https://f-droid.org/repository/browse/?fdid=naman14.timber)
 * Pictures: [Gallery](https://f-droid.org/repository/browse/?fdid=com.simplemobiletools.gallery)
-* Subsonic: [DSub](https://f-droid.org/repository/browse/?fdid=github.daneren2005.dsub)
 * Videos: [VLC](https://f-droid.org/repository/browse/?fdid=org.videolan.vlc)
 * YouTube: [SkyTube](https://f-droid.org/repository/browse/?fdid=free.rm.skytube.oss), [NewPipe](https://f-droid.org/repository/browse/?fdid=org.schabi.newpipe)
 

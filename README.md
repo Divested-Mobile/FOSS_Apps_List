@@ -49,7 +49,7 @@
 
 # Location
 * Provider (If no MicroG): [UnifiedNLP](https://f-droid.org/repository/browse/?fdid=org.microg.nlp)
-* Location Backend: [LocalWiFiNlpBackend](https://f-droid.org/repository/browse/?fdid=org.fitchfamily.android.wifi_backend), [LocalGsmNlpBackend](https://f-droid.org/repository/browse/?fdid=org.fitchfamily.android.gsmlocation) [MozillaNlpBackend](https://f-droid.org/repository/browse/?fdid=org.microg.nlp.backend.ichnaea)
+* Location Backend: [LocalWiFiNlpBackend](https://f-droid.org/repository/browse/?fdid=org.fitchfamily.android.wifi_backend), [LocalGsmNlpBackend](https://f-droid.org/repository/browse/?fdid=org.fitchfamily.android.gsmlocation), [MozillaNlpBackend](https://f-droid.org/repository/browse/?fdid=org.microg.nlp.backend.ichnaea)
 * Reverse Lookup Backend: [NominatimNlpBackend](https://f-droid.org/repository/browse/?fdid=org.microg.nlp.backend.nominatim)
 
 # Media
@@ -76,7 +76,7 @@
 * Play Store: [Yalp Store](https://f-droid.org/repository/browse/?fdid=com.github.yeriomin.yalpstore)
 * Navigation: [OsmAnd](https://f-droid.org/repository/browse/?fdid=net.osmand.plus)
 * OBD2 Reader: [OBD-II Reader](https://f-droid.org/repository/browse/?fdid=com.github.pires.obd.reader)
-* RSS: [spaRSS](https://f-droid.org/repository/browse/?fdid=net.etuldan.sparss.floss)
+* RSS: [Feeder](https://f-droid.org/repository/browse/?fdid=com.nononsenseapps.feeder)
 * Steganography: [Pixel Knot](https://f-droid.org/repository/browse/?fdid=info.guardianproject.pixelknot)
 * Translation: [Mitzuli](https://f-droid.org/repository/browse/?fdid=com.mitzuli)
 * Weather: [Forecastie](https://f-droid.org/repository/browse/?fdid=cz.martykan.forecastie)
@@ -133,7 +133,7 @@
 * Terminal: [Termux](https://f-droid.org/repository/browse/?fdid=com.termux)
 
 # Web Browsers
-* Chrome: [Chromium](https://f-droid.org/repository/browse/?fdid=com.dosse.chromiumautoupdater)
+* Chrome: [getChromium](https://f-droid.org/repository/browse/?fdid=com.anddevw.getchromium), [Chromium Auto Updater](https://f-droid.org/repository/browse/?fdid=com.dosse.chromiumautoupdater)
 * Firefox: [Fennec](https://f-droid.org/repository/browse/?fdid=org.mozilla.fennec_fdroid), [IceCat](https://f-droid.org/repository/browse/?fdid=org.gnu.icecat)
 * Tor Browser: [Orfox](https://f-droid.org/repository/browse/?fdid=info.guardianproject.orfox)
 * Webview: [Privacy Browser](https://f-droid.org/repository/browse/?fdid=com.stoutner.privacybrowser.standard)

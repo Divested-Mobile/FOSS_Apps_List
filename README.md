@@ -1,13 +1,7 @@
-# Background
-
-* Its highly recommended for you to install [F-Droid](https://f-droid.org/repository/browse/?fdid=org.fdroid.fdroid) and then revist this list on your Android device
-* Regex for removing 'fdfilter' from URLs "fdfilter=[a-zA-Z]+&"
-* Command to convert from md to html: pandoc -f markdown -t html README.md -o index.html
-
 # Customization
 * Keyboard: [AnySoftKeyboard](https://f-droid.org/repository/browse/?fdid=com.menny.android.anysoftkeyboard)
 * Fonts: [Fira](https://f-droid.org/repository/browse/?fdid=org.mmk2410.cyngn.theme.fira)
-* Icons: [Twelf](https://f-droid.org/repository/browse/?fdid=org.twelf.cmtheme), [ICEcons](https://f-droid.org/repository/browse/?fdid=ovh.ice.icecons)
+* Icons: [Twelf](https://f-droid.org/repository/browse/?fdid=org.twelf.cmtheme), [ICEcons](https://f-droid.org/repository/browse/?fdid=com.dkanada.icecons)
 * Launcher: [KISS](https://f-droid.org/repository/browse/?fdid=fr.neamar.kiss)
 * Themes: [Blue Minimal](https://f-droid.org/repository/browse/?fdid=de.baumann.thema), [Greyscale](https://f-droid.org/repository/browse/?fdid=it.lucci.cm.greyscaletheme)
 
@@ -64,6 +58,7 @@
 # Organization
 * Expenses: [My Expenses](https://f-droid.org/repository/browse/?fdid=org.totschnig.myexpenses)
 * Habits: [Loop Habit Tracker](https://f-droid.org/repository/browse/?fdid=org.isoron.uhabits)
+* Local Calendar Adapter: [Offline Calendar](https://f-droid.org/repository/browse/?fdid=org.sufficientlysecure.localcalendar)
 * Notes: [Notes](https://f-droid.org/repository/browse/?fdid=org.secuso.privacyfriendlynotes)
 * Orgmode: [Orgzly](https://f-droid.org/repository/browse/?fdid=com.orgzly)
 * To Do: [Tasks](https://f-droid.org/repository/browse/?fdid=org.tasks)

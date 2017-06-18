@@ -106,6 +106,7 @@
 * Mumble: [Plumble](https://f-droid.org/repository/browse/?fdid=com.morlunk.mumbleclient)
 * SIP: [Linphone](https://f-droid.org/repository/browse/?fdid=org.linphone)
 * SMS/MMS: [Silence](https://f-droid.org/repository/browse/?fdid=org.smssecure.smssecure)
+* Telegram: [Telegram](https://f-droid.org/repository/browse/?fdid=org.telegram.messenger)
 * Twitter: [Twidere](https://f-droid.org/repository/browse/?fdid=org.mariotaku.twidere)
 * XMPP: [Conversations](https://f-droid.org/repository/browse/?fdid=eu.siacs.conversations)
 

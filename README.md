@@ -95,7 +95,6 @@
 # Servers
 * Digital Ocean: [DO Swimmer](https://f-droid.org/repository/browse/?fdid=com.yassirh.digitalocean)
 * Knocker: [Port Knocker](https://f-droid.org/repository/browse/?fdid=com.xargsgrep.portknocker), [Fwknop2](https://f-droid.org/repository/browse/?fdid=org.cipherdyne.fwknop2)
-* Mongo: [Mongo Explorer](https://f-droid.org/repository/browse/?fdid=com.innodroid.mongobrowser)
 * SSH: [ConnectBot](https://f-droid.org/repository/browse/?fdid=org.connectbot)
 * Wake On Lan: [Etherwake](https://f-droid.org/repository/browse/?fdid=org.schabi.etherwake)
 
@@ -117,7 +116,6 @@
 * Reddit: [RedReader](https://f-droid.org/repository/browse/?fdid=org.quantumbadger.redreader), [Slide](https://f-droid.org/repository/browse/?fdid=me.ccrama.redditslide)
 
 #Torrents
-* Sickrage: [ShowsRage](https://f-droid.org/repository/browse/?fdid=com.mgaetan89.showsrage)
 * Torrent Client: [LibreTorrent](https://f-droid.org/repository/browse/?fdid=org.proninyaroslav.libretorrent)
 * Torrent Client Manager [Transdroid](https://f-droid.org/repository/browse/?fdid=org.transdroid.full)
 

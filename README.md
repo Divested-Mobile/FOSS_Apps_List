@@ -85,7 +85,7 @@
 # Security
 * Firewalls (No Root): [DNS66](https://f-droid.org/repository/browse/?fdid=org.jak_linux.dns66), [NetGuard](https://f-droid.org/repository/browse/?fdid=eu.faircode.netguard)
 * Filtering (Root): [AdAway](https://f-droid.org/repository/browse/?fdid=org.adaway), [AFWall+](https://f-droid.org/repository/browse/?fdid=dev.ukanth.ufirewall)
-* GPG: [OpenKeychain](https://f-droid.org/repository/browse/?fdid=org.sufficientlysecure.keychain)
+* OpenPGP: [OpenKeychain](https://f-droid.org/repository/browse/?fdid=org.sufficientlysecure.keychain)
 * IMSI Catchers: [SnoopSnitch](https://f-droid.org/repository/browse/?fdid=de.srlabs.snoopsnitch)
 * Passwords: [Password Store](https://f-droid.org/repository/browse/?fdid=com.zeapo.pwdstore), [Keepass](https://f-droid.org/repository/browse/?fdid=com.android.keepass), [Password Safe](https://f-droid.org/repository/browse/?fdid=com.jefftharris.passwdsafe), [Twik](https://f-droid.org/repository/browse/?fdid=com.reddyetwo.hashmypass.app)
 * Proxies/Tunnels: [OpenVPN](https://f-droid.org/repository/browse/?fdid=de.blinkt.openvpn), [Orbot](https://f-droid.org/repository/browse/?fdid=org.torproject.android), [I2P](https://f-droid.org/repository/browse/?fdid=net.i2p.android.router)
@@ -133,9 +133,8 @@
 * Terminal: [Termux](https://f-droid.org/repository/browse/?fdid=com.termux)
 
 # Web Browsers
-## Chromium Warning: Builds are signed with test keys
-## Firefox Warning: Builds are typically outdated and susceptible to multiple vulnerabilities
-## WebView Warnings: Only use if you have an up-to-date WebView. Cookies are also typically handled improperly, due to the single cookie jar.
+Sadly the available browsers aren't as secure as they can be. The Chromium builds are signed with test keys, the Firefox builds are typically outdated and filled with vulnerabilities, and the WebView ones are swiss cheese when combined with an outdated WebView provider.
+
 * Chrome: [getChromium](https://f-droid.org/repository/browse/?fdid=com.anddevw.getchromium), [Chromium Auto Updater](https://f-droid.org/repository/browse/?fdid=com.dosse.chromiumautoupdater)
 * Firefox: [Fennec](https://f-droid.org/repository/browse/?fdid=org.mozilla.fennec_fdroid), [IceCat](https://f-droid.org/repository/browse/?fdid=org.gnu.icecat)
 * Tor Browser: [Orfox](https://f-droid.org/repository/browse/?fdid=info.guardianproject.orfox)

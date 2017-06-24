@@ -83,7 +83,7 @@
 * To Do: [Tasks](https://f-droid.org/repository/browse/?fdid=org.tasks)
 
 # Security
-* Firewalls (No Root): [DNS66](https://f-droid.org/repository/browse/?fdid=org.jak_linux.dns66), [NetGuard](https://f-droid.org/repository/browse/?fdid=eu.faircode.netguard)
+* Filtering (No Root): [DNS66](https://f-droid.org/repository/browse/?fdid=org.jak_linux.dns66), [NetGuard](https://f-droid.org/repository/browse/?fdid=eu.faircode.netguard)
 * Filtering (Root): [AdAway](https://f-droid.org/repository/browse/?fdid=org.adaway), [AFWall+](https://f-droid.org/repository/browse/?fdid=dev.ukanth.ufirewall)
 * OpenPGP: [OpenKeychain](https://f-droid.org/repository/browse/?fdid=org.sufficientlysecure.keychain)
 * IMSI Catchers: [SnoopSnitch](https://f-droid.org/repository/browse/?fdid=de.srlabs.snoopsnitch)

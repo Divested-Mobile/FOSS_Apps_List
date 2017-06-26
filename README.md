@@ -131,8 +131,6 @@
 * Terminal: [Termux](https://f-droid.org/repository/browse/?fdid=com.termux)
 
 # Web Browsers
-Sadly the available browsers aren't as secure as they can be. The Chromium builds are signed with test keys, the Firefox builds are typically outdated and filled with vulnerabilities, and the WebView ones are swiss cheese when combined with an outdated WebView provider.
-
 * Chrome: [getChromium](https://f-droid.org/repository/browse/?fdid=com.anddevw.getchromium), [Chromium Auto Updater](https://f-droid.org/repository/browse/?fdid=com.dosse.chromiumautoupdater)
 * Firefox: [Fennec](https://f-droid.org/repository/browse/?fdid=org.mozilla.fennec_fdroid), [IceCat](https://f-droid.org/repository/browse/?fdid=org.gnu.icecat)
 * Tor Browser: [Orfox](https://f-droid.org/repository/browse/?fdid=info.guardianproject.orfox)

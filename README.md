@@ -52,6 +52,7 @@
 * MPD: [M.A.L.P.](https://f-droid.org/repository/browse/?fdid=org.gateshipone.malp)
 * Music: [Vanilla](https://f-droid.org/repository/browse/?fdid=ch.blinkenlights.android.vanilla)
 * Pictures: [Gallery](https://f-droid.org/repository/browse/?fdid=com.simplemobiletools.gallery)
+* Podcasts: [AntennaPod](https://f-droid.org/repository/browse/?fdid=de.danoeh.antennapod), [SoundWaves](https://f-droid.org/repository/browse/?fdid=org.bottiger.podcast)
 * Videos: [VLC](https://f-droid.org/repository/browse/?fdid=org.videolan.vlc)
 * YouTube: [SkyTube](https://f-droid.org/repository/browse/?fdid=free.rm.skytube.oss), [NewPipe](https://f-droid.org/repository/browse/?fdid=org.schabi.newpipe)
 

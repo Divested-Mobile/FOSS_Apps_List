@@ -24,6 +24,7 @@
 * Syncing: [Syncthing](https://f-droid.org/repository/browse/?fdid=com.nutomic.syncthingandroid)
 
 # Games
+* 1010!: [1010! Klooni](https://f-droid.org/repository/browse/?fdid=io.github.lonamiwebs.klooni)
 * Breaker: [Retro Breaker](https://f-droid.org/repository/browse/?fdid=br.usp.ime.retrobreaker)
 * Minecraft: [Minetest](https://f-droid.org/repository/browse/?fdid=net.minetest.minetest)
 * Pinball: [Vector Pinball](https://f-droid.org/repository/browse/?fdid=com.dozingcatsoftware.bouncy)
@@ -53,6 +54,7 @@
 * Music: [Vanilla](https://f-droid.org/repository/browse/?fdid=ch.blinkenlights.android.vanilla)
 * Pictures: [Gallery](https://f-droid.org/repository/browse/?fdid=com.simplemobiletools.gallery)
 * Podcasts: [AntennaPod](https://f-droid.org/repository/browse/?fdid=de.danoeh.antennapod), [SoundWaves](https://f-droid.org/repository/browse/?fdid=org.bottiger.podcast)
+* Radio: [RadioDroid](https://f-droid.org/repository/browse/?fdid=net.programmierecke.radiodroid2)
 * Videos: [VLC](https://f-droid.org/repository/browse/?fdid=org.videolan.vlc)
 * YouTube: [SkyTube](https://f-droid.org/repository/browse/?fdid=free.rm.skytube.oss), [NewPipe](https://f-droid.org/repository/browse/?fdid=org.schabi.newpipe)
 

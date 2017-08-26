@@ -21,7 +21,7 @@
 
 # Files
 * Hosting: [Nextcloud](https://f-droid.org/repository/browse/?fdid=com.nextcloud.android.beta)
-* Syncing: [Syncthing](https://f-droid.org/repository/browse/?fdid=com.nutomic.syncthingandroid)
+* Syncing: [Syncthing¹](https://f-droid.org/repository/browse/?fdid=com.nutomic.syncthingandroid)
 
 # Games
 * 1010!: [1010! Klooni](https://f-droid.org/repository/browse/?fdid=io.github.lonamiwebs.klooni)
@@ -53,7 +53,7 @@
 * MPD: [M.A.L.P.](https://f-droid.org/repository/browse/?fdid=org.gateshipone.malp)
 * Music: [Vanilla](https://f-droid.org/repository/browse/?fdid=ch.blinkenlights.android.vanilla)
 * Pictures: [Gallery](https://f-droid.org/repository/browse/?fdid=com.simplemobiletools.gallery)
-* Podcasts: [AntennaPod](https://f-droid.org/repository/browse/?fdid=de.danoeh.antennapod), [SoundWaves](https://f-droid.org/repository/browse/?fdid=org.bottiger.podcast)
+* Podcasts: [AntennaPod¹](https://f-droid.org/repository/browse/?fdid=de.danoeh.antennapod)
 * Radio: [RadioDroid](https://f-droid.org/repository/browse/?fdid=net.programmierecke.radiodroid2)
 * Videos: [VLC](https://f-droid.org/repository/browse/?fdid=org.videolan.vlc)
 * YouTube: [SkyTube](https://f-droid.org/repository/browse/?fdid=free.rm.skytube.oss), [NewPipe](https://f-droid.org/repository/browse/?fdid=org.schabi.newpipe)
@@ -64,9 +64,9 @@
 * Conversion: [Unit Converter Ultimate](https://f-droid.org/repository/browse/?fdid=com.physphil.android.unitconverterultimate)
 * Loyalty Cards: [Loyalty Card Keychain](https://f-droid.org/repository/browse/?fdid=protect.card_locker)
 * Play Store: [Yalp Store](https://f-droid.org/repository/browse/?fdid=com.github.yeriomin.yalpstore)
-* Navigation: [OsmAnd](https://f-droid.org/repository/browse/?fdid=net.osmand.plus)
+* Navigation: [OsmAnd²](https://f-droid.org/repository/browse/?fdid=net.osmand.plus)
 * OBD2 Reader: [OBD-II Reader](https://f-droid.org/repository/browse/?fdid=com.github.pires.obd.reader)
-* RSS: [Feeder](https://f-droid.org/repository/browse/?fdid=com.nononsenseapps.feeder)
+* RSS: [spaRSS¹](https://f-droid.org/repository/browse/?fdid=net.etuldan.sparss.floss)
 * Steganography: [Pixel Knot](https://f-droid.org/repository/browse/?fdid=info.guardianproject.pixelknot)
 * Translation: [Mitzuli](https://f-droid.org/repository/browse/?fdid=com.mitzuli)
 * Weather: [Good Weather](https://f-droid.org/repository/browse/?fdid=org.asdtm.goodweather), [Forecastie](https://f-droid.org/repository/browse/?fdid=cz.martykan.forecastie), [Simple Weather](https://f-droid.org/repository/browse/?fdid=com.a5corp.weather)
@@ -88,11 +88,11 @@
 # Security
 * Filtering (No Root): [DNS66](https://f-droid.org/repository/browse/?fdid=org.jak_linux.dns66), [NetGuard](https://f-droid.org/repository/browse/?fdid=eu.faircode.netguard)
 * Filtering (Root): [AdAway](https://f-droid.org/repository/browse/?fdid=org.adaway), [AFWall+](https://f-droid.org/repository/browse/?fdid=dev.ukanth.ufirewall)
-* OpenPGP: [OpenKeychain](https://f-droid.org/repository/browse/?fdid=org.sufficientlysecure.keychain)
+* OpenPGP: [OpenKeychain²](https://f-droid.org/repository/browse/?fdid=org.sufficientlysecure.keychain)
 * IMSI Catchers: [SnoopSnitch](https://f-droid.org/repository/browse/?fdid=de.srlabs.snoopsnitch)
 * Passwords: [Password Store](https://f-droid.org/repository/browse/?fdid=com.zeapo.pwdstore), [Keepass](https://f-droid.org/repository/browse/?fdid=com.android.keepass), [Password Safe](https://f-droid.org/repository/browse/?fdid=com.jefftharris.passwdsafe), [Twik](https://f-droid.org/repository/browse/?fdid=com.reddyetwo.hashmypass.app)
 * Proxies/Tunnels: [OpenVPN](https://f-droid.org/repository/browse/?fdid=de.blinkt.openvpn), [Orbot](https://f-droid.org/repository/browse/?fdid=org.torproject.android), [I2P](https://f-droid.org/repository/browse/?fdid=net.i2p.android.router)
-* Two Factor Authenticaton: [FreeOTP](https://f-droid.org/repository/browse/?fdid=org.fedorahosted.freeotp), [YubiKey](https://f-droid.org/repository/browse/?fdid=com.yubico.yubioath)
+* Two Factor Authenticaton: [andOTP](https://f-droid.org/repository/browse/?fdid=org.shadowice.flocke.andotp), [YubiKey](https://f-droid.org/repository/browse/?fdid=com.yubico.yubioath)
 * Wi-Fi Spoofing Protection: [Wi-Fi Privacy Police](https://f-droid.org/repository/browse/?fdid=be.uhasselt.privacypolice)
 
 # Servers
@@ -106,17 +106,17 @@
 * Facebook: [Face Slim](https://f-droid.org/repository/browse/?fdid=org.indywidualni.fblite), [MaterialFBook](https://f-droid.org/repository/browse/?fdid=me.zeeroooo.materialfb)
 * IRC: [Simple IRC](https://f-droid.org/repository/browse/?fdid=tk.jordynsmediagroup.simpleirc.fdroid)
 * Matrix: [Riot](https://f-droid.org/repository/browse/?fdid=im.vector.alpha)
-* Mumble: [Plumble](https://f-droid.org/repository/browse/?fdid=com.morlunk.mumbleclient)
+* Mumble: [Plumble¹](https://f-droid.org/repository/browse/?fdid=com.morlunk.mumbleclient)
 * SIP: [Linphone](https://f-droid.org/repository/browse/?fdid=org.linphone)
 * SMS/MMS: [Silence](https://f-droid.org/repository/browse/?fdid=org.smssecure.smssecure)
 * Telegram: [Telegram](https://f-droid.org/repository/browse/?fdid=org.telegram.messenger)
-* Twitter: [Twidere](https://f-droid.org/repository/browse/?fdid=org.mariotaku.twidere)
-* XMPP: [Conversations](https://f-droid.org/repository/browse/?fdid=eu.siacs.conversations)
+* Twitter: [Twidere¹](https://f-droid.org/repository/browse/?fdid=org.mariotaku.twidere)
+* XMPP: [Conversations¹](https://f-droid.org/repository/browse/?fdid=eu.siacs.conversations)
 
 # Social (Forums)
-* *Chan: [Clover](https://f-droid.org/repository/browse/?fdid=org.floens.chan)
+* *Chan: [Clover¹](https://f-droid.org/repository/browse/?fdid=org.floens.chan)
 * Hacker News: [Materialistic](https://f-droid.org/repository/browse/?fdid=io.github.hidroh.materialistic)
-* Reddit: [RedReader](https://f-droid.org/repository/browse/?fdid=org.quantumbadger.redreader), [Slide](https://f-droid.org/repository/browse/?fdid=me.ccrama.redditslide)
+* Reddit: [RedReader¹](https://f-droid.org/repository/browse/?fdid=org.quantumbadger.redreader), [Slide](https://f-droid.org/repository/browse/?fdid=me.ccrama.redditslide)
 
 #Torrents
 * Torrent Client: [LibreTorrent](https://f-droid.org/repository/browse/?fdid=org.proninyaroslav.libretorrent)
@@ -135,6 +135,10 @@
 
 # Web Browsers
 * Chrome: [getChromium](https://f-droid.org/repository/browse/?fdid=com.anddevw.getchromium), [Chromium Auto Updater](https://f-droid.org/repository/browse/?fdid=com.dosse.chromiumautoupdater)
-* Firefox: [Fennec](https://f-droid.org/repository/browse/?fdid=org.mozilla.fennec_fdroid), [IceCat](https://f-droid.org/repository/browse/?fdid=org.gnu.icecat)
-* Tor Browser: [Orfox](https://f-droid.org/repository/browse/?fdid=info.guardianproject.orfox)
-* WebView: [Privacy Browser](https://f-droid.org/repository/browse/?fdid=com.stoutner.privacybrowser.standard), [Lightning](https://f-droid.org/repository/browse/?fdid=acr.browser.lightning)
+* Firefox: [Fennec²](https://f-droid.org/repository/browse/?fdid=org.mozilla.fennec_fdroid)
+* Tor Browser: [Orfox¹](https://f-droid.org/repository/browse/?fdid=info.guardianproject.orfox)
+* WebView: [Privacy Browser²](https://f-droid.org/repository/browse/?fdid=com.stoutner.privacybrowser.standard), [Lightning²](https://f-droid.org/repository/browse/?fdid=acr.browser.lightning), [Klar](https://f-droid.org/repository/browse/?fdid=org.mozilla.klar)
+
+# Key
+* Apps marked with ¹ have proxy support (eg. Tor, HTTP, SOCKS)
+* Apps marked with ² have Tor/proxy support, but are *not* recommended due to potential leaks (eg. location, real IP)

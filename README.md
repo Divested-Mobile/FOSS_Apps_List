@@ -1,17 +1,12 @@
 # Customization
+* Icons: [Ameixa](https://f-droid.org/packages/org.xphnx.ameixa)
 * Keyboard: [AnySoftKeyboard](https://f-droid.org/packages/com.menny.android.anysoftkeyboard)
 * Launcher: [KISS](https://f-droid.org/packages/fr.neamar.kiss), [OpenLauncher](https://f-droid.org/packages/com.benny.openlauncher)
-
-# Customization (CMTE)
-* Fonts: [Fira](https://f-droid.org/packages/org.mmk2410.cyngn.theme.fira)
-* Icons: [Twelf](https://f-droid.org/packages/org.twelf.cmtheme), [ICEcons](https://f-droid.org/packages/com.dkanada.icecons)
-* Themes: [Blue Minimal](https://f-droid.org/packages/de.baumann.thema), [Greyscale](https://f-droid.org/packages/it.lucci.cm.greyscaletheme)
 
 # Development
 * Bitbucket: [Bitbeaker](https://f-droid.org/packages/com.saibotd.bitbeaker)
 * Bugzilla: [BoogDroid](https://f-droid.org/packages/me.johnmh.boogdroid)
-* Gerrit: [mGerrit](https://f-droid.org/packages/com.jbirdvegas.mgerrit)
-* GitHub: [ForkHub](https://f-droid.org/packages/jp.forkhub)
+* GitHub: [OctoDroid](https://f-droid.org/packages/com.gh4a), [ForkHub](https://f-droid.org/packages/jp.forkhub)
 * GitLab: [LabCoat](https://f-droid.org/packages/com.commit451.gitlab)
 
 # Documents
@@ -56,20 +51,19 @@
 * Podcasts: [AntennaPod¹](https://f-droid.org/packages/de.danoeh.antennapod)
 * Radio: [RadioDroid](https://f-droid.org/packages/net.programmierecke.radiodroid2)
 * Videos: [VLC](https://f-droid.org/packages/org.videolan.vlc)
-* YouTube: [SkyTube](https://f-droid.org/packages/free.rm.skytube.oss), [NewPipe](https://f-droid.org/packages/org.schabi.newpipe)
+* YouTube: [NewPipe](https://f-droid.org/packages/org.schabi.newpipe), [SkyTube](https://f-droid.org/packages/free.rm.skytube.oss)
 
 # Miscellaneous
 * Bitcoin: [Bitcoin Wallet](https://f-droid.org/packages/de.schildbach.wallet)
 * Contacts: [DAVDroid](https://f-droid.org/packages/at.bitfire.davdroid)
 * Conversion: [Unit Converter Ultimate](https://f-droid.org/packages/com.physphil.android.unitconverterultimate)
 * Loyalty Cards: [Loyalty Card Keychain](https://f-droid.org/packages/protect.card_locker)
-* Play Store: [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore)
 * Navigation: [OsmAnd²](https://f-droid.org/packages/net.osmand.plus)
 * OBD2 Reader: [OBD-II Reader](https://f-droid.org/packages/com.github.pires.obd.reader)
 * RSS: [spaRSS¹](https://f-droid.org/packages/net.etuldan.sparss.floss)
 * Steganography: [Pixel Knot](https://f-droid.org/packages/info.guardianproject.pixelknot)
 * Translation: [Mitzuli](https://f-droid.org/packages/com.mitzuli)
-* Weather: [Good Weather](https://f-droid.org/packages/org.asdtm.goodweather), [Forecastie](https://f-droid.org/packages/cz.martykan.forecastie), [Simple Weather](https://f-droid.org/packages/com.a5corp.weather)
+* Weather: [Forecastie](https://f-droid.org/packages/cz.martykan.forecastie)
 * Wikipedia: [Wikipedia](https://f-droid.org/packages/org.wikipedia), [Kiwix](https://f-droid.org/packages/org.kiwix.kiwixmobile)
 
 # Network Exploration
@@ -90,7 +84,7 @@
 * Filtering (Root): [AdAway](https://f-droid.org/packages/org.adaway), [AFWall+](https://f-droid.org/packages/dev.ukanth.ufirewall)
 * OpenPGP: [OpenKeychain²](https://f-droid.org/packages/org.sufficientlysecure.keychain)
 * IMSI Catchers: [SnoopSnitch](https://f-droid.org/packages/de.srlabs.snoopsnitch)
-* Passwords: [Password Store](https://f-droid.org/packages/com.zeapo.pwdstore), [Keepass](https://f-droid.org/packages/com.android.keepass), [Password Safe](https://f-droid.org/packages/com.jefftharris.passwdsafe), [Twik](https://f-droid.org/packages/com.reddyetwo.hashmypass.app)
+* Passwords: [Password Store](https://f-droid.org/packages/com.zeapo.pwdstore), [Keepass](https://f-droid.org/packages/com.android.keepass), [Password Safe](https://f-droid.org/packages/com.jefftharris.passwdsafe), [Password Generator](https://f-droid.org/packages/org.secuso.privacyfriendlypasswordgenerator)
 * Proxies/Tunnels: [OpenVPN](https://f-droid.org/packages/de.blinkt.openvpn), [Orbot](https://f-droid.org/packages/org.torproject.android), [I2P](https://f-droid.org/packages/net.i2p.android.router)
 * Two Factor Authenticaton: [andOTP](https://f-droid.org/packages/org.shadowice.flocke.andotp), [YubiKey](https://f-droid.org/packages/com.yubico.yubioath)
 * Wi-Fi Spoofing Protection: [Wi-Fi Privacy Police](https://f-droid.org/packages/be.uhasselt.privacypolice)
@@ -134,7 +128,7 @@
 * Terminal: [Termux](https://f-droid.org/packages/com.termux)
 
 # Web Browsers
-* Chrome: [getChromium](https://f-droid.org/packages/com.anddevw.getchromium), [Chromium Auto Updater](https://f-droid.org/packages/com.dosse.chromiumautoupdater)
+* Chrome: [getChromium](https://f-droid.org/packages/com.anddevw.getchromium)
 * Firefox: [Fennec²](https://f-droid.org/packages/org.mozilla.fennec_fdroid)
 * Tor Browser: [Orfox¹](https://f-droid.org/packages/info.guardianproject.orfox)
 * WebView: [Privacy Browser²](https://f-droid.org/packages/com.stoutner.privacybrowser.standard), [Lightning²](https://f-droid.org/packages/acr.browser.lightning), [Klar](https://f-droid.org/packages/org.mozilla.klar)

@@ -63,7 +63,7 @@
 * RSS: [spaRSS¹](https://f-droid.org/packages/net.etuldan.sparss.floss)
 * Steganography: [Pixel Knot](https://f-droid.org/packages/info.guardianproject.pixelknot)
 * Translation: [Mitzuli](https://f-droid.org/packages/com.mitzuli)
-* Weather: [Forecastie](https://f-droid.org/packages/cz.martykan.forecastie)
+* Weather: [Good Weather](https://f-droid.org/packages/org.asdtm.goodweather), [Forecastie](https://f-droid.org/packages/cz.martykan.forecastie), [Simple Weather](https://f-droid.org/packages/com.a5corp.weather)
 * Wikipedia: [Wikipedia](https://f-droid.org/packages/org.wikipedia), [Kiwix](https://f-droid.org/packages/org.kiwix.kiwixmobile)
 
 # Network Exploration

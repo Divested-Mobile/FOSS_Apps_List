@@ -1,12 +1,12 @@
 # Customization
 * Icons: [Ameixa](https://f-droid.org/packages/org.xphnx.ameixa)
 * Keyboard: [AnySoftKeyboard](https://f-droid.org/packages/com.menny.android.anysoftkeyboard)
-* Launcher: [KISS](https://f-droid.org/packages/fr.neamar.kiss), [OpenLauncher](https://f-droid.org/packages/com.benny.openlauncher)
+* Launcher: [KISS](https://f-droid.org/packages/fr.neamar.kiss)
 
 # Development
 * Bitbucket: [Bitbeaker](https://f-droid.org/packages/com.saibotd.bitbeaker)
 * Bugzilla: [BoogDroid](https://f-droid.org/packages/me.johnmh.boogdroid)
-* GitHub: [OctoDroid](https://f-droid.org/packages/com.gh4a), [ForkHub](https://f-droid.org/packages/jp.forkhub)
+* GitHub: [OctoDroid](https://f-droid.org/packages/com.gh4a)
 * GitLab: [LabCoat](https://f-droid.org/packages/com.commit451.gitlab)
 
 # Documents
@@ -15,8 +15,8 @@
 * Printing: [CUPS Print](https://f-droid.org/packages/io.github.benoitduffez.cupsprint)
 
 # Files
-* Hosting: [Nextcloud](https://f-droid.org/packages/com.nextcloud.android.beta)
-* Syncing: [Syncthing¹](https://f-droid.org/packages/com.nutomic.syncthingandroid)
+* Hosted: [Nextcloud](https://f-droid.org/packages/com.nextcloud.android.beta)
+* Synced: [Syncthing¹](https://f-droid.org/packages/com.nutomic.syncthingandroid)
 
 # Games
 * 1010!: [1010! Klooni](https://f-droid.org/packages/io.github.lonamiwebs.klooni)
@@ -59,11 +59,11 @@
 * Conversion: [Unit Converter Ultimate](https://f-droid.org/packages/com.physphil.android.unitconverterultimate)
 * Loyalty Cards: [Loyalty Card Keychain](https://f-droid.org/packages/protect.card_locker)
 * Navigation: [OsmAnd²](https://f-droid.org/packages/net.osmand.plus)
-* OBD2 Reader: [OBD-II Reader](https://f-droid.org/packages/com.github.pires.obd.reader)
+* OBD2 Reader: [AndrOBD](https://f-droid.org/packages/com.fr3ts0n.ecu.gui.androbd)
 * RSS: [spaRSS¹](https://f-droid.org/packages/net.etuldan.sparss.floss)
 * Steganography: [Pixel Knot](https://f-droid.org/packages/info.guardianproject.pixelknot)
 * Translation: [Mitzuli](https://f-droid.org/packages/com.mitzuli)
-* Weather: [Good Weather](https://f-droid.org/packages/org.asdtm.goodweather), [Forecastie](https://f-droid.org/packages/cz.martykan.forecastie), [Simple Weather](https://f-droid.org/packages/com.a5corp.weather)
+* Weather: [Forecastie](https://f-droid.org/packages/cz.martykan.forecastie), [Good Weather](https://f-droid.org/packages/org.asdtm.goodweather)
 * Wikipedia: [Wikipedia](https://f-droid.org/packages/org.wikipedia), [Kiwix](https://f-droid.org/packages/org.kiwix.kiwixmobile)
 
 # Network Exploration
@@ -97,6 +97,7 @@
 
 # Social
 * Email: [K-9 Mail](https://f-droid.org/packages/com.fsck.k9)
+* Email Chat: [Delta Chat](https://f-droid.org/packages/com.b44t.messenger)
 * Facebook: [Face Slim](https://f-droid.org/packages/org.indywidualni.fblite), [MaterialFBook](https://f-droid.org/packages/me.zeeroooo.materialfb)
 * IRC: [Simple IRC](https://f-droid.org/packages/tk.jordynsmediagroup.simpleirc.fdroid)
 * Matrix: [Riot](https://f-droid.org/packages/im.vector.alpha)

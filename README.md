@@ -12,7 +12,7 @@
 # Documents
 * Office: [LibreOffice Viewer](https://f-droid.org/packages/org.documentfoundation.libreoffice)
 * PDF/XPS: [Document Viewer](https://f-droid.org/packages/org.sufficientlysecure.viewer) 
-* Printing: [CUPS Print](https://f-droid.org/packages/io.github.benoitduffez.cupsprint)
+* Printing (Pre Android 8.1): [CUPS Print](https://f-droid.org/packages/io.github.benoitduffez.cupsprint)
 
 # Files
 * Hosted: [Nextcloud](https://f-droid.org/packages/com.nextcloud.android.beta)
@@ -38,16 +38,16 @@
 * Workout: [Sieben](https://f-droid.org/repository/browse?fdid=de.baumann.sieben)
 
 # Location
-* Provider (If no MicroG): [UnifiedNLP](https://f-droid.org/packages/org.microg.nlp)
-* Location Backend: [LocalWiFiNlpBackend](https://f-droid.org/packages/org.fitchfamily.android.wifi_backend), [LocalGsmNlpBackend](https://f-droid.org/packages/org.fitchfamily.android.gsmlocation), [MozillaNlpBackend](https://f-droid.org/packages/org.microg.nlp.backend.ichnaea)
+* Provider (If no microG): [UnifiedNLP](https://f-droid.org/packages/org.microg.nlp)
+* Location Backend: [DejaVu](https://f-droid.org/packages/org.fitchfamily.android.dejavu), [MozillaNlpBackend](https://f-droid.org/packages/org.microg.nlp.backend.ichnaea)
 * Reverse Lookup Backend: [NominatimNlpBackend](https://f-droid.org/packages/org.microg.nlp.backend.nominatim)
 
 # Media
-* E-Books: [PageTurner](https://f-droid.org/packages/net.nightwhistler.pageturner)
+* E-Books: [FBReader](https://f-droid.org/packages/org.geometerplus.zlibrary.ui.android), [PageTurner](https://f-droid.org/packages/net.nightwhistler.pageturner)
 * Libresonic: [Audinaut](https://f-droid.org/packages/net.nullsum.audinaut)
 * MPD: [M.A.L.P.](https://f-droid.org/packages/org.gateshipone.malp)
 * Music: [Vanilla](https://f-droid.org/packages/ch.blinkenlights.android.vanilla)
-* Pictures: [Gallery](https://f-droid.org/packages/com.simplemobiletools.gallery)
+* Pictures: [Camera Roll](https://f-droid.org/packages/us.koller.cameraroll)
 * Podcasts: [AntennaPod¹](https://f-droid.org/packages/de.danoeh.antennapod)
 * Radio: [RadioDroid](https://f-droid.org/packages/net.programmierecke.radiodroid2)
 * Videos: [VLC](https://f-droid.org/packages/org.videolan.vlc)
@@ -61,14 +61,10 @@
 * Navigation: [OsmAnd²](https://f-droid.org/packages/net.osmand.plus)
 * OBD2 Reader: [AndrOBD](https://f-droid.org/packages/com.fr3ts0n.ecu.gui.androbd)
 * RSS: [spaRSS¹](https://f-droid.org/packages/net.etuldan.sparss.floss)
+* Screen Sharing: [Screen Stream](https://f-droid.org/packages/info.dvkr.screenstream)
 * Steganography: [Pixel Knot](https://f-droid.org/packages/info.guardianproject.pixelknot)
-* Translation: [Mitzuli](https://f-droid.org/packages/com.mitzuli)
-* Weather: [Forecastie](https://f-droid.org/packages/cz.martykan.forecastie), [Good Weather](https://f-droid.org/packages/org.asdtm.goodweather)
+* Weather: [Forecastie](https://f-droid.org/packages/cz.martykan.forecastie)
 * Wikipedia: [Wikipedia](https://f-droid.org/packages/org.wikipedia), [Kiwix](https://f-droid.org/packages/org.kiwix.kiwixmobile)
-
-# Network Exploration
-* Metasploit: [cSploit](https://f-droid.org/repository/browse/?ffdid=org.csploit.android)
-* Port Scanner: [Port Authority](https://f-droid.org/packages/com.aaronjwood.portauthority)
 
 # Organization
 * Expenses: [My Expenses](https://f-droid.org/packages/org.totschnig.myexpenses)
@@ -80,25 +76,24 @@
 * To Do: [Tasks](https://f-droid.org/packages/org.tasks)
 
 # Security
-* Filtering (No Root): [DNS66](https://f-droid.org/packages/org.jak_linux.dns66), [NetGuard](https://f-droid.org/packages/eu.faircode.netguard)
+* Filtering (No Root): [DNS66](https://f-droid.org/packages/org.jak_linux.dns66)
 * Filtering (Root): [AdAway](https://f-droid.org/packages/org.adaway), [AFWall+](https://f-droid.org/packages/dev.ukanth.ufirewall)
 * OpenPGP: [OpenKeychain²](https://f-droid.org/packages/org.sufficientlysecure.keychain)
-* IMSI Catchers: [SnoopSnitch](https://f-droid.org/packages/de.srlabs.snoopsnitch)
 * Passwords: [Password Store](https://f-droid.org/packages/com.zeapo.pwdstore), [Keepass](https://f-droid.org/packages/com.android.keepass), [Password Safe](https://f-droid.org/packages/com.jefftharris.passwdsafe), [Password Generator](https://f-droid.org/packages/org.secuso.privacyfriendlypasswordgenerator)
 * Proxies/Tunnels: [OpenVPN](https://f-droid.org/packages/de.blinkt.openvpn), [Orbot](https://f-droid.org/packages/org.torproject.android), [I2P](https://f-droid.org/packages/net.i2p.android.router)
 * Two Factor Authenticaton: [andOTP](https://f-droid.org/packages/org.shadowice.flocke.andotp), [YubiKey](https://f-droid.org/packages/com.yubico.yubioath)
-* Wi-Fi Spoofing Protection: [Wi-Fi Privacy Police](https://f-droid.org/packages/be.uhasselt.privacypolice)
 
 # Servers
 * Digital Ocean: [DO Swimmer](https://f-droid.org/packages/com.yassirh.digitalocean)
 * Knocker: [Port Knocker](https://f-droid.org/packages/com.xargsgrep.portknocker), [Fwknop2](https://f-droid.org/packages/org.cipherdyne.fwknop2)
+* Port Scanner: [Port Authority](https://f-droid.org/packages/com.aaronjwood.portauthority)
 * SSH: [ConnectBot](https://f-droid.org/packages/org.connectbot)
 * Wake On Lan: [Etherwake](https://f-droid.org/packages/org.schabi.etherwake)
 
 # Social
 * Email: [K-9 Mail](https://f-droid.org/packages/com.fsck.k9)
 * Email Chat: [Delta Chat](https://f-droid.org/packages/com.b44t.messenger)
-* Facebook: [Face Slim](https://f-droid.org/packages/org.indywidualni.fblite), [MaterialFBook](https://f-droid.org/packages/me.zeeroooo.materialfb)
+* Facebook: [Face Slim](https://f-droid.org/packages/org.indywidualni.fblite)
 * IRC: [Simple IRC](https://f-droid.org/packages/tk.jordynsmediagroup.simpleirc.fdroid)
 * Matrix: [Riot](https://f-droid.org/packages/im.vector.alpha)
 * Mumble: [Plumble¹](https://f-droid.org/packages/com.morlunk.mumbleclient)
@@ -118,13 +113,13 @@
 * Torrent Client Manager [Transdroid](https://f-droid.org/packages/org.transdroid.full)
 
 # Utilities
-* Backup: [oandbackup](https://f-droid.org/packages/dk.jens.backup)
+* Backup (Root): [oandbackup](https://f-droid.org/packages/dk.jens.backup)
 * Barcode Scanner: [Barcode Scanner](https://f-droid.org/packages/com.google.zxing.client.android)
 * Battery Monitoring: [BatteryBot](https://f-droid.org/packages/com.darshancomputing.BatteryIndicatorPro)
 * Clipboard History: [Clip Stack](https://f-droid.org/packages/com.catchingnow.tinyclipboardmanager)
 * File Server: [primitive ftpd](https://f-droid.org/packages/org.primftpd)
 * GPS Tester: [SatStat](https://f-droid.org/packages/com.vonglasow.michael.satstat)
-* Kernel Tweaking: [Kernel Adiutor](https://f-droid.org/packages/com.grarak.kerneladiutor)
+* Kernel Tweaking (Root): [Kernel Adiutor](https://f-droid.org/packages/com.grarak.kerneladiutor)
 * Network Monitor: [Net Monitor](https://f-droid.org/packages/org.secuso.privacyfriendlynetmonitor)
 * Terminal: [Termux](https://f-droid.org/packages/com.termux)
 

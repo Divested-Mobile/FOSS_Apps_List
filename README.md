@@ -16,7 +16,7 @@
 
 # Files
 * Hosted: [Nextcloud](https://f-droid.org/packages/com.nextcloud.android.beta)
-* Synced: [Syncthing¹](https://f-droid.org/packages/com.nutomic.syncthingandroid)
+* Synced: [Syncthing²](https://f-droid.org/packages/com.nutomic.syncthingandroid)
 
 # Games
 * 1010!: [1010! Klooni](https://f-droid.org/packages/io.github.lonamiwebs.klooni)
@@ -110,7 +110,7 @@
 
 #Torrents
 * Torrent Client: [LibreTorrent](https://f-droid.org/packages/org.proninyaroslav.libretorrent)
-* Torrent Client Manager [Transdroid](https://f-droid.org/packages/org.transdroid.full)
+* Torrent Client Manager: [Transdroid](https://f-droid.org/packages/org.transdroid.full)
 
 # Utilities
 * Backup (Root): [oandbackup](https://f-droid.org/packages/dk.jens.backup)

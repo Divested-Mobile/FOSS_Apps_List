@@ -1,2 +1,2 @@
-Markdown to HTML: pandoc -f markdown -t html README.md -o apps.html
+Markdown to HTML: pandoc -f markdown -t html README.md -o recommended_apps_md.html
 Regex to clean F-Droid URLs: fdfilter=[a-zA-Z]+&

@@ -4,7 +4,6 @@
 * Launcher: [KISS](https://f-droid.org/packages/fr.neamar.kiss)
 
 # Development
-* Bitbucket: [Bitbeaker](https://f-droid.org/packages/com.saibotd.bitbeaker)
 * Bugzilla: [BoogDroid](https://f-droid.org/packages/me.johnmh.boogdroid)
 * GitHub: [OctoDroid](https://f-droid.org/packages/com.gh4a)
 * GitLab: [LabCoat](https://f-droid.org/packages/com.commit451.gitlab)
@@ -43,14 +42,13 @@
 * Reverse Lookup Backend: [NominatimNlpBackend](https://f-droid.org/packages/org.microg.nlp.backend.nominatim)
 
 # Media
-* E-Books: [FBReader](https://f-droid.org/packages/org.geometerplus.zlibrary.ui.android), [PageTurner](https://f-droid.org/packages/net.nightwhistler.pageturner)
-* Libresonic: [Audinaut](https://f-droid.org/packages/net.nullsum.audinaut)
+* E-Books: [Book Reader](https://f-droid.org/packages/com.github.axet.bookreader), [FBReader](https://f-droid.org/packages/org.geometerplus.zlibrary.ui.android), [PageTurner](https://f-droid.org/packages/net.nightwhistler.pageturner)
+* Libresonic: [UltraSonic](https://f-droid.org/packages/org.moire.ultrasonic)
 * MPD: [M.A.L.P.](https://f-droid.org/packages/org.gateshipone.malp)
 * Music: [Vanilla](https://f-droid.org/packages/ch.blinkenlights.android.vanilla)
 * Pictures: [Camera Roll](https://f-droid.org/packages/us.koller.cameraroll)
 * Podcasts: [AntennaPod¹](https://f-droid.org/packages/de.danoeh.antennapod)
 * Radio: [RadioDroid](https://f-droid.org/packages/net.programmierecke.radiodroid2)
-* Videos: [VLC](https://f-droid.org/packages/org.videolan.vlc)
 * YouTube: [NewPipe](https://f-droid.org/packages/org.schabi.newpipe), [SkyTube](https://f-droid.org/packages/free.rm.skytube.oss)
 
 # Miscellaneous
@@ -60,7 +58,7 @@
 * Loyalty Cards: [Loyalty Card Keychain](https://f-droid.org/packages/protect.card_locker)
 * Navigation: [OsmAnd²](https://f-droid.org/packages/net.osmand.plus)
 * OBD2 Reader: [AndrOBD](https://f-droid.org/packages/com.fr3ts0n.ecu.gui.androbd)
-* RSS: [spaRSS¹](https://f-droid.org/packages/net.etuldan.sparss.floss)
+* RSS: [Feeder](https://f-droid.org/packages/com.nononsenseapps.feeder), [spaRSS¹](https://f-droid.org/packages/net.etuldan.sparss.floss)
 * Screen Sharing: [Screen Stream](https://f-droid.org/packages/info.dvkr.screenstream)
 * Steganography: [Pixel Knot](https://f-droid.org/packages/info.guardianproject.pixelknot)
 * Weather: [Forecastie](https://f-droid.org/packages/cz.martykan.forecastie)
@@ -88,7 +86,6 @@
 * Knocker: [Port Knocker](https://f-droid.org/packages/com.xargsgrep.portknocker), [Fwknop2](https://f-droid.org/packages/org.cipherdyne.fwknop2)
 * Port Scanner: [Port Authority](https://f-droid.org/packages/com.aaronjwood.portauthority)
 * SSH: [ConnectBot](https://f-droid.org/packages/org.connectbot)
-* Wake On Lan: [Etherwake](https://f-droid.org/packages/org.schabi.etherwake)
 
 # Social
 * Email: [K-9 Mail](https://f-droid.org/packages/com.fsck.k9)

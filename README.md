@@ -2,6 +2,7 @@
 * Icons: [Ameixa](https://f-droid.org/packages/org.xphnx.ameixa)
 * Keyboard: [AnySoftKeyboard](https://f-droid.org/packages/com.menny.android.anysoftkeyboard)
 * Launcher: [KISS](https://f-droid.org/packages/fr.neamar.kiss)
+* Wallpaper: [Muzei](https://f-droid.org/packages/net.nurik.roman.muzei), [WPGen](https://f-droid.org/packages/net.glsk.wpgen)
 
 # Development
 * Bugzilla: [BoogDroid](https://f-droid.org/packages/me.johnmh.boogdroid)
@@ -111,7 +112,7 @@
 
 # Utilities
 * Backup (Root): [oandbackup](https://f-droid.org/packages/dk.jens.backup)
-* Barcode Scanner: [Barcode Scanner](https://f-droid.org/packages/com.google.zxing.client.android)
+* Barcode Scanner: [SecScanQR](https://f-droid.org/packages/de.t_dankworth.secscanqr), [Barcode Scanner](https://f-droid.org/packages/com.google.zxing.client.android)
 * Battery Monitoring: [BatteryBot](https://f-droid.org/packages/com.darshancomputing.BatteryIndicatorPro)
 * Clipboard History: [Clip Stack](https://f-droid.org/packages/com.catchingnow.tinyclipboardmanager)
 * File Server: [primitive ftpd](https://f-droid.org/packages/org.primftpd)

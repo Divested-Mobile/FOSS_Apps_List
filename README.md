@@ -30,7 +30,6 @@
 * Sudoku: [Sudoku](https://f-droid.org/packages/org.secuso.privacyfriendlysudoku)
 * Tetris: [Blockinger](https://f-droid.org/packages/org.blockinger.game)
 * Tower Defense: [Anuto](https://f-droid.org/repository/browse?fdid=ch.logixisland.anuto)
-* Word: [Crosswords](https://f-droid.org/packages/org.eehouse.android.xw4)
 
 # Health
 * Cycling: [AAT](https://f-droid.org/repository/browse?fdid=ch.bailu.aat)
@@ -46,7 +45,7 @@
 * Wikipedia: [Wikipedia](https://f-droid.org/packages/org.wikipedia), [Kiwix](https://f-droid.org/packages/org.kiwix.kiwixmobile)
 
 # Location
-* Navigation: [OsmAnd²](https://f-droid.org/packages/net.osmand.plus)
+* Navigation: [OsmAnd²](https://f-droid.org/packages/net.osmand.plus) + [AddressToGPS](https://f-droid.org/packages/me.danielbarnett.addresstogps)
 * Provider (If no microG): [UnifiedNLP](https://f-droid.org/packages/org.microg.nlp)
 * Location Backend: [DejaVu](https://f-droid.org/packages/org.fitchfamily.android.dejavu), [MozillaNlpBackend](https://f-droid.org/packages/org.microg.nlp.backend.ichnaea)
 * Reverse Lookup Backend: [NominatimNlpBackend](https://f-droid.org/packages/org.microg.nlp.backend.nominatim)

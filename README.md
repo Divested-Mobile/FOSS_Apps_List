@@ -15,7 +15,7 @@
 * Printing (Pre Android 8.1): [CUPS Print](https://f-droid.org/packages/io.github.benoitduffez.cupsprint)
 
 # Files
-* Encryption: [EDS Lite✈](https://f-droid.org/packages/com.sovworks.edslite)
+* Encryption: [EDS Lite⚠✈](https://f-droid.org/packages/com.sovworks.edslite)
 * Hosted: [Nextcloud☁](https://f-droid.org/packages/com.nextcloud.android.beta)
 * Synced: [Syncthing☁☂](https://f-droid.org/packages/com.nutomic.syncthingandroid)
 
@@ -59,7 +59,7 @@
 * Music: [Vanilla✈](https://f-droid.org/packages/ch.blinkenlights.android.vanilla)
 * Pictures: [Simple Gallery✈](https://f-droid.org/packages/com.simplemobiletools.gallery.pro)
 * Podcasts: [AntennaPod☁🕶](https://f-droid.org/packages/de.danoeh.antennapod)
-* Radio: [RadioDroid☂](https://f-droid.org/packages/net.programmierecke.radiodroid2)
+* Radio: [RadioDroid☂](https://f-droid.org/packages/net.programmierecke.radiodroid2), [Transistor](https://f-droid.org/packages/org.y20k.transistor)
 * YouTube: [NewPipe☁](https://f-droid.org/packages/org.schabi.newpipe), [SkyTube](https://f-droid.org/packages/free.rm.skytube.oss)
 
 # Miscellaneous
@@ -74,7 +74,7 @@
 * Habits: [Loop Habit Tracker](https://f-droid.org/packages/org.isoron.uhabits)
 * Journal: [Diary](https://f-droid.org/packages/org.billthefarmer.diary)
 * Local Calendar Adapter: [Offline Calendar✈](https://f-droid.org/packages/org.sufficientlysecure.localcalendar)
-* Notes: [Notes✈](https://f-droid.org/packages/org.secuso.privacyfriendlynotes), [SealNote✈](https://f-droid.org/packages/com.twistedplane.sealnote)
+* Notes: [Notes✈](https://f-droid.org/packages/org.secuso.privacyfriendlynotes), [SealNote⚠✈](https://f-droid.org/packages/com.twistedplane.sealnote)
 * Orgmode: [Orgzly](https://f-droid.org/packages/com.orgzly)
 * To Do: [Tasks](https://f-droid.org/packages/org.tasks)
 
@@ -87,6 +87,7 @@
 * Proxies/Tunnels: [OpenVPN](https://f-droid.org/packages/de.blinkt.openvpn), [Orbot](https://f-droid.org/packages/org.torproject.android), [I2P](https://f-droid.org/packages/net.i2p.android.router)
 * Steganography: [Pixel Knot✈](https://f-droid.org/packages/info.guardianproject.pixelknot)
 * Two Factor Authenticaton: [andOTP✈](https://f-droid.org/packages/org.shadowice.flocke.andotp), [YubiKey✈](https://f-droid.org/packages/com.yubico.yubioath)
+* Universal E2E Chat: [Oversec⚠✈](https://f-droid.org/packages/io.oversec.one)
 
 # Servers
 * Knocker: [Port Knocker](https://f-droid.org/packages/com.xargsgrep.portknocker), [Fwknop2](https://f-droid.org/packages/org.cipherdyne.fwknop2)
@@ -121,7 +122,7 @@
 * Backup (Root): [oandbackup✈](https://f-droid.org/packages/dk.jens.backup)
 * Battery Monitoring: [BatteryBot✈](https://f-droid.org/packages/com.darshancomputing.BatteryIndicatorPro)
 * Clipboard History: [Clip Stack✈](https://f-droid.org/packages/com.catchingnow.tinyclipboardmanager)
-* Contacts Sync: [DAVDroid](https://f-droid.org/packages/at.bitfire.davdroid)
+* Contacts Sync: [DAVx5](https://f-droid.org/packages/at.bitfire.davdroid)
 * File Server: [primitive ftpd](https://f-droid.org/packages/org.primftpd)
 * GPS Tester: [GPSTest](https://f-droid.org/packages/om.android.gpstest.osmdroid)
 * Kernel Tweaking (Root): [Kernel Adiutor](https://f-droid.org/packages/com.grarak.kerneladiutor)
@@ -136,7 +137,8 @@
 * WebView: [Privacy Browser☁☂](https://f-droid.org/packages/com.stoutner.privacybrowser.standard), [Lightning☁☂](https://f-droid.org/packages/acr.browser.lightning), [Klar](https://f-droid.org/packages/org.mozilla.klar)
 
 # Key
+* ⚠ High risk and has not been formally audited
 * ✈ No Network Permission
 * ☁ Data Friendly (Uses minimal data, provides limits, offers offline support, or respects Data Saver)
 * 🕶 Proxy Support (eg. Tor, HTTP, SOCKS)
-* ☂ Proxy Support, but are *not* recommended due to potential leaks (eg. location, real IP)
+* ☂ Proxy Support, but is *not* recommended due to potential leaks (eg. location, real IP)

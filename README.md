@@ -11,8 +11,10 @@
 
 # Documents
 * Office: [LibreOffice Viewer](https://f-droid.org/packages/org.documentfoundation.libreoffice)
-* PDF/XPS: [Document Viewer](https://f-droid.org/packages/org.sufficientlysecure.viewer) 
+* PDF Editor: [PDF Converter✈](https://f-droid.org/packages/swati4star.createpdf)
+* PDF Viewer: [Document Viewer](https://f-droid.org/packages/org.sufficientlysecure.viewer)
 * Printing (Pre Android 8.1): [CUPS Print](https://f-droid.org/packages/io.github.benoitduffez.cupsprint)
+* Scanning: [Open Note Scanner](https://f-droid.org/packages/com.todobom.opennotescanner)
 
 # Files
 * Encryption: [EDS Lite⚠✈](https://f-droid.org/packages/com.sovworks.edslite)
@@ -26,7 +28,7 @@
 * Classic: [Blockinger✈](https://f-droid.org/packages/org.blockinger.game), [Retro Breaker✈](https://f-droid.org/packages/br.usp.ime.retrobreaker), [Vector Pinball✈](https://f-droid.org/packages/com.dozingcatsoftware.bouncy)
 * Emulator: [Dolphin](https://f-droid.org/packages/org.dolphinemu.dolphinemu), [PPSSPP](https://f-droid.org/packages/org.ppsspp.ppsspp)
 * Platformer: [Cow's Revenge✈](https://f-droid.org/packages/org.pipoypipagames.cowsrevenge), [Replica Island](https://f-droid.org/packages/com.replica.replicaisland)
-* Puzzle: [1010! Klooni✈](https://f-droid.org/packages/io.github.lonamiwebs.klooni), [Sudoku✈](https://f-droid.org/packages/org.secuso.privacyfriendlysudoku)
+* Puzzle: [1010! Klooni✈](https://f-droid.org/packages/io.github.lonamiwebs.klooni), [2048✈](https://f-droid.org/packages/org.secuso.privacyfriendly2048), [Minesweeper✈](https://f-droid.org/packages/org.secuso.privacyfriendlyminesweeper), [Sudoku✈](https://f-droid.org/packages/org.secuso.privacyfriendlysudoku)
 * Quest: [Andor's Trail✈](https://f-droid.org/packages/com.gpl.rpg.AndorsTrail)
 * Racing: [SuperTuxKart](https://f-droid.org/packages/org.supertuxkart.stk)
 * Roguelike: [Shattered Pixel Dungeon✈](https://f-droid.org/packages/com.shatteredpixel.shatteredpixeldungeon)
@@ -60,14 +62,19 @@
 * Pictures: [Simple Gallery✈](https://f-droid.org/packages/com.simplemobiletools.gallery.pro)
 * Podcasts: [AntennaPod☁🕶](https://f-droid.org/packages/de.danoeh.antennapod)
 * Radio: [RadioDroid☂](https://f-droid.org/packages/net.programmierecke.radiodroid2), [Transistor](https://f-droid.org/packages/org.y20k.transistor)
-* YouTube: [NewPipe☁](https://f-droid.org/packages/org.schabi.newpipe), [SkyTube](https://f-droid.org/packages/free.rm.skytube.oss)
+* YouTube: [NewPipe☁](https://f-droid.org/packages/org.schabi.newpipe), [SkyTube☁](https://f-droid.org/packages/free.rm.skytube.oss)
 
 # Miscellaneous
 * Barcode Scanner: [SecScanQR✈](https://f-droid.org/packages/de.t_dankworth.secscanqr)
-* Bitcoin: [Bitcoin Wallet](https://f-droid.org/packages/de.schildbach.wallet)
-* ~~Spy~~ Loyalty Cards: [Loyalty Card Keychain✈](https://f-droid.org/packages/protect.card_locker)
 * OBD2 Reader: [AndrOBD](https://f-droid.org/packages/com.fr3ts0n.ecu.gui.androbd)
 * RSS: [Flym☁](https://f-droid.org/packages/net.frju.flym), [spaRSS☁🕶](https://f-droid.org/packages/net.etuldan.sparss.floss)
+
+# Network
+* Filtering (No Root): [DNS66](https://f-droid.org/packages/org.jak_linux.dns66), [NetGuard](https://f-droid.org/packages/eu.faircode.netguard)
+* Filtering (Root): [AdAway](https://f-droid.org/packages/org.adaway), [AFWall+](https://f-droid.org/packages/dev.ukanth.ufirewall)
+* Proxies: [Orbot](https://f-droid.org/packages/org.torproject.android), [I2P](https://f-droid.org/packages/net.i2p.android.router)
+* VPN: [Bitmask](https://f-droid.org/packages/se.leap.bitmaskclient)
+* VPN (proper): [WireGuard](https://f-droid.org/packages/com.wireguard.android), [OpenVPN](https://f-droid.org/packages/de.blinkt.openvpn), [Tinc](https://f-droid.org/packages/org.pacien.tincapp)
 
 # Organization
 * Expenses: [My Expenses](https://f-droid.org/packages/org.totschnig.myexpenses)
@@ -76,15 +83,17 @@
 * Local Calendar Adapter: [Offline Calendar✈](https://f-droid.org/packages/org.sufficientlysecure.localcalendar)
 * Notes: [Notes✈](https://f-droid.org/packages/org.secuso.privacyfriendlynotes), [SealNote⚠✈](https://f-droid.org/packages/com.twistedplane.sealnote)
 * Orgmode: [Orgzly](https://f-droid.org/packages/com.orgzly)
-* To Do: [Tasks](https://f-droid.org/packages/org.tasks)
+* To Do: [Tasks✈](https://f-droid.org/packages/org.dmfs.tasks)
+
+# Payments
+* Bitcoin: [Bitcoin Wallet](https://f-droid.org/packages/de.schildbach.wallet)
+* ~~Spy~~ Loyalty Cards: [Loyalty Card Keychain✈](https://f-droid.org/packages/protect.card_locker)
+* Tap to Pay: [SwipeYours⚠✈](https://f-droid.org/packages/to.noc.android.swipeyours)
 
 # Security
 * App Isolation: [Shelter✈](https://f-droid.org/packages/net.typeblog.shelter)
-* Filtering (No Root): [DNS66](https://f-droid.org/packages/org.jak_linux.dns66), [NetGuard](https://f-droid.org/packages/eu.faircode.netguard)
-* Filtering (Root): [AdAway](https://f-droid.org/packages/org.adaway), [AFWall+](https://f-droid.org/packages/dev.ukanth.ufirewall)
 * OpenPGP: [OpenKeychain☂](https://f-droid.org/packages/org.sufficientlysecure.keychain)
 * Passwords: [Password Store](https://f-droid.org/packages/com.zeapo.pwdstore), [Keepass✈](https://f-droid.org/packages/com.android.keepass), [Password Generator✈](https://f-droid.org/packages/org.secuso.privacyfriendlypasswordgenerator)
-* Proxies/Tunnels: [OpenVPN](https://f-droid.org/packages/de.blinkt.openvpn), [Orbot](https://f-droid.org/packages/org.torproject.android), [I2P](https://f-droid.org/packages/net.i2p.android.router)
 * Steganography: [Pixel Knot✈](https://f-droid.org/packages/info.guardianproject.pixelknot)
 * Two Factor Authenticaton: [andOTP✈](https://f-droid.org/packages/org.shadowice.flocke.andotp), [YubiKey✈](https://f-droid.org/packages/com.yubico.yubioath)
 * Universal E2E Chat: [Oversec⚠✈](https://f-droid.org/packages/io.oversec.one)
@@ -122,7 +131,7 @@
 * Backup (Root): [oandbackup✈](https://f-droid.org/packages/dk.jens.backup)
 * Battery Monitoring: [BatteryBot✈](https://f-droid.org/packages/com.darshancomputing.BatteryIndicatorPro)
 * Clipboard History: [Clip Stack✈](https://f-droid.org/packages/com.catchingnow.tinyclipboardmanager)
-* Contacts Sync: [DAVx5](https://f-droid.org/packages/at.bitfire.davdroid)
+* Contacts Sync: [DAVx5☂](https://f-droid.org/packages/at.bitfire.davdroid), [EteSync🕶](https://f-droid.org/packages/com.etesync.syncadapter)
 * File Server: [primitive ftpd](https://f-droid.org/packages/org.primftpd)
 * GPS Tester: [GPSTest](https://f-droid.org/packages/om.android.gpstest.osmdroid)
 * Kernel Tweaking (Root): [Kernel Adiutor](https://f-droid.org/packages/com.grarak.kerneladiutor)

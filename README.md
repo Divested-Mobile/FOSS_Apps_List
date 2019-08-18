@@ -30,7 +30,7 @@
 * Platformer: [Cow's Revenge✈](https://f-droid.org/packages/org.pipoypipagames.cowsrevenge), [Replica Island](https://f-droid.org/packages/com.replica.replicaisland)
 * Puzzle: [1010! Klooni✈](https://f-droid.org/packages/io.github.lonamiwebs.klooni), [2048✈](https://f-droid.org/packages/org.secuso.privacyfriendly2048), [Minesweeper✈](https://f-droid.org/packages/org.secuso.privacyfriendlyminesweeper), [Sudoku✈](https://f-droid.org/packages/org.secuso.privacyfriendlysudoku)
 * Quest: [Andor's Trail✈](https://f-droid.org/packages/com.gpl.rpg.AndorsTrail)
-* Racing: [SuperTuxKart](https://f-droid.org/packages/org.supertuxkart.stk)
+* Racing: [SuperTuxKart](https://f-droid.org/packages/org.supertuxkart.stk), [Pixel Wheels✈](https://f-droid.org/packages/com.agateau.tinywheels.android)
 * Roguelike: [Shattered Pixel Dungeon✈](https://f-droid.org/packages/com.shatteredpixel.shatteredpixeldungeon)
 * Sandbox: [Minetest](https://f-droid.org/packages/net.minetest.minetest)
 * Strategy: [Anuto✈](https://f-droid.org/repository/browse?fdid=ch.logixisland.anuto), [Tanks of Freedom](https://f-droid.org/packages/in.p1x.tanks_of_freedom)
@@ -65,7 +65,7 @@
 * YouTube: [NewPipe☁](https://f-droid.org/packages/org.schabi.newpipe), [SkyTube☁](https://f-droid.org/packages/free.rm.skytube.oss)
 
 # Miscellaneous
-* Barcode Scanner: [SecScanQR✈](https://f-droid.org/packages/de.t_dankworth.secscanqr)
+* Barcode Scanner: [Binary Eye✈](https://f-droid.org/packages/de.markusfisch.android.binaryeye)
 * OBD2 Reader: [AndrOBD](https://f-droid.org/packages/com.fr3ts0n.ecu.gui.androbd)
 * RSS: [Flym☁](https://f-droid.org/packages/net.frju.flym), [spaRSS☁🕶](https://f-droid.org/packages/net.etuldan.sparss.floss)
 

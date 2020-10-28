@@ -28,23 +28,23 @@
 * Classic: [Blockinger✈](https://f-droid.org/packages/org.blockinger.game), [Retro Breaker✈](https://f-droid.org/packages/br.usp.ime.retrobreaker), [Vector Pinball✈](https://f-droid.org/packages/com.dozingcatsoftware.bouncy)
 * Emulator: [Dolphin](https://f-droid.org/packages/org.dolphinemu.dolphinemu), [PPSSPP](https://f-droid.org/packages/org.ppsspp.ppsspp)
 * Platformer: [Cow's Revenge✈](https://f-droid.org/packages/org.pipoypipagames.cowsrevenge), [Replica Island](https://f-droid.org/packages/com.replica.replicaisland)
-* Puzzle: [1010! Klooni✈](https://f-droid.org/packages/io.github.lonamiwebs.klooni), [2048✈](https://f-droid.org/packages/org.secuso.privacyfriendly2048), [Minesweeper✈](https://f-droid.org/packages/org.secuso.privacyfriendlyminesweeper), [Sudoku✈](https://f-droid.org/packages/org.secuso.privacyfriendlysudoku)
+* Puzzle: [1010! Klooni✈](https://f-droid.org/packages/dev.lonami.klooni), [2048✈](https://f-droid.org/packages/org.secuso.privacyfriendly2048), [Minesweeper✈](https://f-droid.org/packages/dev.lucanlm.antimine), [Sudoku✈](https://f-droid.org/packages/org.secuso.privacyfriendlysudoku)
 * Quest: [Andor's Trail✈](https://f-droid.org/packages/com.gpl.rpg.AndorsTrail)
 * Racing: [SuperTuxKart](https://f-droid.org/packages/org.supertuxkart.stk), [Pixel Wheels✈](https://f-droid.org/packages/com.agateau.tinywheels.android)
 * Roguelike: [Shattered Pixel Dungeon✈](https://f-droid.org/packages/com.shatteredpixel.shatteredpixeldungeon)
 * Sandbox: [Minetest](https://f-droid.org/packages/net.minetest.minetest)
-* Strategy: [Anuto✈](https://f-droid.org/repository/browse?fdid=ch.logixisland.anuto), [Tanks of Freedom](https://f-droid.org/packages/in.p1x.tanks_of_freedom)
+* Strategy: [Anuto✈](https://f-droid.org/packages/ch.logixisland.anuto), [Mindustry](https://f-droid.org/packages/io.anuke.mindustry), [Tanks of Freedom](https://f-droid.org/packages/in.p1x.tanks_of_freedom), [UnCiv](https://f-droid.org/packages/com.unciv.app)
 * Trivia: [LibreTrivia☁](https://f-droid.org/packages/io.github.trytonvanmeer.libretrivia)
 
 # Health
-* Cycling: [AAT](https://f-droid.org/repository/browse?fdid=ch.bailu.aat)
-* Pedometer: [Pedometer✈](https://f-droid.org/repository/browse?fdid=org.secuso.privacyfriendlyactivitytracker)
-* Workout: [Sieben](https://f-droid.org/repository/browse?fdid=de.baumann.sieben)
+* Cycling: [AAT](https://f-droid.org/packages/ch.bailu.aat)
+* Pedometer: [Pedometer✈](https://f-droid.org/packages/org.secuso.privacyfriendlyactivitytracker)
+* Workout: [Sieben](https://f-droid.org/packages/de.baumann.sieben)
 
 # Information
 * Conversion: [Unit Converter Ultimate☁](https://f-droid.org/packages/com.physphil.android.unitconverterultimate)
 * Suntimes: [Suntimes✈](https://f-droid.org/packages/com.forrestguice.suntimeswidget)
-* Survival: [Survival Manual](https://f-droid.org/packages/org.ligi.survivalmanual)
+* Survival: [Survival Manual](https://f-droid.org/packages/org.ligi.survivalmanual), [Trail Sense](https://f-droid.org/packages/com.kylecorry.trail_sense)
 * Weather: [Forecastie☁](https://f-droid.org/packages/cz.martykan.forecastie)
 * Wikipedia: [Wikipedia☁](https://f-droid.org/packages/org.wikipedia), [Kiwix☁](https://f-droid.org/packages/org.kiwix.kiwixmobile)
 
@@ -62,6 +62,7 @@
 * Pictures: [Simple Gallery✈](https://f-droid.org/packages/com.simplemobiletools.gallery.pro)
 * Podcasts: [AntennaPod☁🕶](https://f-droid.org/packages/de.danoeh.antennapod)
 * Radio: [RadioDroid☂](https://f-droid.org/packages/net.programmierecke.radiodroid2), [Transistor](https://f-droid.org/packages/org.y20k.transistor)
+* Universal: [VLC](https://f-droid.org/packages/org.videolan.vlc)
 * YouTube: [NewPipe☁](https://f-droid.org/packages/org.schabi.newpipe), [SkyTube☁](https://f-droid.org/packages/free.rm.skytube.oss)
 
 # Miscellaneous
@@ -93,24 +94,24 @@
 # Security
 * App Isolation: [Shelter✈](https://f-droid.org/packages/net.typeblog.shelter)
 * OpenPGP: [OpenKeychain☂](https://f-droid.org/packages/org.sufficientlysecure.keychain)
-* Passwords: [Password Store](https://f-droid.org/packages/com.zeapo.pwdstore), [Keepass✈](https://f-droid.org/packages/com.android.keepass), [Password Generator✈](https://f-droid.org/packages/org.secuso.privacyfriendlypasswordgenerator)
+* Passwords: [KeePassDX✈](https://f-droid.org/packages/com.kunzisoft.keepass.libre), [KeePassDroid✈](https://f-droid.org/packages/com.android.keepass), [Password Generator✈](https://f-droid.org/packages/org.secuso.privacyfriendlypasswordgenerator)
 * Steganography: [Pixel Knot✈](https://f-droid.org/packages/info.guardianproject.pixelknot)
 * Two Factor Authenticaton: [andOTP✈](https://f-droid.org/packages/org.shadowice.flocke.andotp), [YubiKey✈](https://f-droid.org/packages/com.yubico.yubioath)
 * Universal E2E Chat: [Oversec⚠✈](https://f-droid.org/packages/io.oversec.one)
 
 # Servers
-* Knocker: [Port Knocker](https://f-droid.org/packages/com.xargsgrep.portknocker), [Fwknop2](https://f-droid.org/packages/org.cipherdyne.fwknop2)
+* Knocker: [Knock on Ports](https://f-droid.org/packages/me.impa.knockonports), [Fwknop2](https://f-droid.org/packages/org.cipherdyne.fwknop2)
 * Port Scanner: [Port Authority](https://f-droid.org/packages/com.aaronjwood.portauthority)
 * SSH: [ConnectBot](https://f-droid.org/packages/org.connectbot)
 * Status: [Nock Nock](https://f-droid.org/packages/com.afollestad.nocknock)
 
 # Social
-* Email: [K-9 Mail](https://f-droid.org/packages/com.fsck.k9)
+* Email: [FairEmail](https://f-droid.org/packages/eu.faircode.email), [K-9 Mail](https://f-droid.org/packages/com.fsck.k9)
 * Email Chat: [Delta Chat](https://f-droid.org/packages/com.b44t.messenger)
 * Facebook: [Face Slim☁🕶](https://f-droid.org/packages/org.indywidualni.fblite)
 * IRC: [Simple IRC](https://f-droid.org/packages/tk.jordynsmediagroup.simpleirc.fdroid)
-* Matrix: [Riot](https://f-droid.org/packages/im.vector.alpha)
-* Mumble: [Plumble🕶](https://f-droid.org/packages/com.morlunk.mumbleclient)
+* Matrix: [Element](https://f-droid.org/packages/im.vector.app)
+* Mumble: [Mumla🕶](https://f-droid.org/packages/se.lublin.mumla)
 * Other: [Briar🕶](https://f-droid.org/packages/org.briarproject.briar.android)
 * SIP: [Linphone](https://f-droid.org/packages/org.linphone)
 * SMS/MMS: [Silence](https://f-droid.org/packages/org.smssecure.smssecure)
@@ -119,7 +120,6 @@
 * XMPP: [Conversations☁🕶](https://f-droid.org/packages/eu.siacs.conversations)
 
 # Social Forums
-* *Chan: [Clover🕶](https://f-droid.org/packages/org.floens.chan)
 * Hacker News: [Materialistic☁](https://f-droid.org/packages/io.github.hidroh.materialistic)
 * Reddit: [RedReader☁🕶](https://f-droid.org/packages/org.quantumbadger.redreader), [Slide☁](https://f-droid.org/packages/me.ccrama.redditslide)
 
@@ -128,22 +128,21 @@
 * Torrent Client Manager: [Transdroid](https://f-droid.org/packages/org.transdroid.full)
 
 # Utilities
-* Backup (Root): [oandbackup✈](https://f-droid.org/packages/dk.jens.backup)
+* Backup (Root): [oandbackupx✈](https://f-droid.org/packages/com.machiav3lli.backup)
 * Battery Monitoring: [BatteryBot✈](https://f-droid.org/packages/com.darshancomputing.BatteryIndicatorPro)
 * Clipboard History: [Clip Stack✈](https://f-droid.org/packages/com.catchingnow.tinyclipboardmanager)
 * Contacts Sync: [DAVx5☂](https://f-droid.org/packages/at.bitfire.davdroid), [EteSync🕶](https://f-droid.org/packages/com.etesync.syncadapter)
 * File Server: [primitive ftpd](https://f-droid.org/packages/org.primftpd)
 * GPS Tester: [GPSTest](https://f-droid.org/packages/om.android.gpstest.osmdroid)
-* Kernel Tweaking (Root): [Kernel Adiutor](https://f-droid.org/packages/com.grarak.kerneladiutor)
 * Network Monitor: [Net Monitor](https://f-droid.org/packages/org.secuso.privacyfriendlynetmonitor)
 * Screen Sharing: [Screen Stream](https://f-droid.org/packages/info.dvkr.screenstream)
 * Terminal: [Termux](https://f-droid.org/packages/com.termux)
 * Wi-Fi Analyzer: [WiFiAnalyzer✈](https://f-droid.org/com.vrem.wifianalyzer)
 
 # Web Browsers
-* Chrome: [getChromium](https://f-droid.org/packages/com.anddevw.getchromium)
-* Firefox: [Fennec☁☂](https://f-droid.org/packages/org.mozilla.fennec_fdroid), [Tor Browser☁🕶](https://f-droid.org/packages/org.torproject.torbrowser_alpha)
-* WebView: [Privacy Browser☁☂](https://f-droid.org/packages/com.stoutner.privacybrowser.standard), [Lightning☁☂](https://f-droid.org/packages/acr.browser.lightning), [Klar](https://f-droid.org/packages/org.mozilla.klar)
+* Chrome: [Bromite](https://f-droid.org/packages/org.bromite.bromite), [getChromium](https://f-droid.org/packages/com.anddevw.getchromium)
+* Firefox: [Fennec☁☂](https://f-droid.org/packages/org.mozilla.fennec_fdroid), [Tor Browser☁🕶](https://f-droid.org/packages/org.torproject.torbrowser)
+* WebView: [Privacy Browser☁☂](https://f-droid.org/packages/com.stoutner.privacybrowser.standard), [Lightning☁☂](https://f-droid.org/packages/acr.browser.lightning)
 
 # Key
 * ⚠ High risk and has not been formally audited

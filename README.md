@@ -6,6 +6,7 @@
 
 # Development
 * Bugzilla: [BoogDroid](https://f-droid.org/packages/me.johnmh.boogdroid)
+* Gitea: [GitNex](https://f-droid.org/packages/org.mian.gitnex)
 * GitHub: [OctoDroid](https://f-droid.org/packages/com.gh4a)
 * GitLab: [LabCoat](https://f-droid.org/packages/com.commit451.gitlab)
 
@@ -55,13 +56,15 @@
 * Reverse Lookup Backend: [NominatimNlpBackend☁](https://f-droid.org/packages/org.microg.nlp.backend.nominatim)
 
 # Media
-* E-Books: [Book Reader☁](https://f-droid.org/packages/com.github.axet.bookreader)
+* E-Books: [Librera✈](https://f-droid.org/packages/com.foobnix.pro.pdf.reader), [Book Reader☁](https://f-droid.org/packages/com.github.axet.bookreader)
 * Libresonic: [UltraSonic☁](https://f-droid.org/packages/org.moire.ultrasonic)
 * MPD: [M.A.L.P.](https://f-droid.org/packages/org.gateshipone.malp)
 * Music: [Vanilla✈](https://f-droid.org/packages/ch.blinkenlights.android.vanilla)
+* Peertube: [Thorium](https://f-droid.org/packages/net.schueller.peertube), [TubeLab](https://f-droid.org/packages/app.fedilab.tubelab)
 * Pictures: [Simple Gallery✈](https://f-droid.org/packages/com.simplemobiletools.gallery.pro)
 * Podcasts: [AntennaPod☁🕶](https://f-droid.org/packages/de.danoeh.antennapod)
 * Radio: [RadioDroid☂](https://f-droid.org/packages/net.programmierecke.radiodroid2), [Transistor](https://f-droid.org/packages/org.y20k.transistor)
+* Twitch: [Twire](https://f-droid.org/packages/com.perflyst.twire)
 * Universal: [VLC](https://f-droid.org/packages/org.videolan.vlc)
 * YouTube: [NewPipe☁](https://f-droid.org/packages/org.schabi.newpipe), [SkyTube☁](https://f-droid.org/packages/free.rm.skytube.oss)
 
@@ -84,7 +87,7 @@
 * Local Calendar Adapter: [Offline Calendar✈](https://f-droid.org/packages/org.sufficientlysecure.localcalendar)
 * Notes: [Notes✈](https://f-droid.org/packages/org.secuso.privacyfriendlynotes), [SealNote⚠✈](https://f-droid.org/packages/com.twistedplane.sealnote)
 * Orgmode: [Orgzly](https://f-droid.org/packages/com.orgzly)
-* To Do: [Tasks✈](https://f-droid.org/packages/org.dmfs.tasks)
+* To Do: [Tasks✈](https://f-droid.org/packages/org.dmfs.tasks), [Tasks.org](https://f-droid.org/packages/org.tasks)
 
 # Payments
 * Bitcoin: [Bitcoin Wallet](https://f-droid.org/packages/de.schildbach.wallet)
@@ -114,7 +117,7 @@
 * Mumble: [Mumla🕶](https://f-droid.org/packages/se.lublin.mumla)
 * Other: [Briar🕶](https://f-droid.org/packages/org.briarproject.briar.android)
 * SIP: [Linphone](https://f-droid.org/packages/org.linphone)
-* SMS/MMS: [Silence](https://f-droid.org/packages/org.smssecure.smssecure)
+* SMS/MMS: [Silence](https://f-droid.org/packages/org.smssecure.smssecure), [QMSMS](https://f-droid.org/packages/com.moez.QKSMS)
 * Telegram: [Telegram](https://f-droid.org/packages/org.telegram.messenger)
 * Twitter: [Twidere☁🕶](https://f-droid.org/packages/org.mariotaku.twidere)
 * XMPP: [Conversations☁🕶](https://f-droid.org/packages/eu.siacs.conversations)

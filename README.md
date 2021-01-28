@@ -32,7 +32,7 @@
 * Puzzle: [1010! Klooni✈](https://f-droid.org/packages/dev.lonami.klooni), [2048✈](https://f-droid.org/packages/org.secuso.privacyfriendly2048), [Minesweeper✈](https://f-droid.org/packages/dev.lucanlm.antimine), [Sudoku✈](https://f-droid.org/packages/org.secuso.privacyfriendlysudoku)
 * Quest: [Andor's Trail✈](https://f-droid.org/packages/com.gpl.rpg.AndorsTrail)
 * Racing: [SuperTuxKart](https://f-droid.org/packages/org.supertuxkart.stk), [Pixel Wheels✈](https://f-droid.org/packages/com.agateau.tinywheels.android)
-* Roguelike: [Shattered Pixel Dungeon✈](https://f-droid.org/packages/com.shatteredpixel.shatteredpixeldungeon)
+* Roguelike: [Shattered Pixel Dungeon](https://f-droid.org/packages/com.shatteredpixel.shatteredpixeldungeon)
 * Sandbox: [Minetest](https://f-droid.org/packages/net.minetest.minetest)
 * Strategy: [Anuto✈](https://f-droid.org/packages/ch.logixisland.anuto), [Mindustry](https://f-droid.org/packages/io.anuke.mindustry), [Tanks of Freedom](https://f-droid.org/packages/in.p1x.tanks_of_freedom), [UnCiv](https://f-droid.org/packages/com.unciv.app)
 * Trivia: [LibreTrivia☁](https://f-droid.org/packages/io.github.trytonvanmeer.libretrivia)
@@ -43,9 +43,9 @@
 * Workout: [Sieben](https://f-droid.org/packages/de.baumann.sieben)
 
 # Information
+* Astronomy: [Suntimes✈](https://f-droid.org/packages/com.forrestguice.suntimeswidget)
 * Conversion: [Unit Converter Ultimate☁](https://f-droid.org/packages/com.physphil.android.unitconverterultimate)
-* Suntimes: [Suntimes✈](https://f-droid.org/packages/com.forrestguice.suntimeswidget)
-* Survival: [Survival Manual](https://f-droid.org/packages/org.ligi.survivalmanual), [Trail Sense](https://f-droid.org/packages/com.kylecorry.trail_sense)
+* Survival: [Survival Manual✈](https://f-droid.org/packages/org.ligi.survivalmanual), [Trail Sense✈](https://f-droid.org/packages/com.kylecorry.trail_sense)
 * Weather: [Forecastie☁](https://f-droid.org/packages/cz.martykan.forecastie)
 * Wikipedia: [Wikipedia☁](https://f-droid.org/packages/org.wikipedia), [Kiwix☁](https://f-droid.org/packages/org.kiwix.kiwixmobile)
 
@@ -56,7 +56,6 @@
 * Reverse Lookup Backend: [NominatimNlpBackend☁](https://f-droid.org/packages/org.microg.nlp.backend.nominatim)
 
 # Media
-* E-Books: [Librera✈](https://f-droid.org/packages/com.foobnix.pro.pdf.reader), [Book Reader☁](https://f-droid.org/packages/com.github.axet.bookreader)
 * Libresonic: [UltraSonic☁](https://f-droid.org/packages/org.moire.ultrasonic)
 * MPD: [M.A.L.P.](https://f-droid.org/packages/org.gateshipone.malp)
 * Music: [Vanilla✈](https://f-droid.org/packages/ch.blinkenlights.android.vanilla)
@@ -93,6 +92,10 @@
 * Bitcoin: [Bitcoin Wallet](https://f-droid.org/packages/de.schildbach.wallet)
 * ~~Spy~~ Loyalty Cards: [Loyalty Card Keychain✈](https://f-droid.org/packages/protect.card_locker)
 * Tap to Pay: [SwipeYours⚠✈](https://f-droid.org/packages/to.noc.android.swipeyours)
+
+# Reading
+* E-Books: [Librera✈](https://f-droid.org/packages/com.foobnix.pro.pdf.reader), [Book Reader☁](https://f-droid.org/packages/com.github.axet.bookreader)
+* Religious Texts: [The Light✈](https://f-droid.org/packages/org.hlwd.bible)
 
 # Security
 * App Isolation: [Shelter✈](https://f-droid.org/packages/net.typeblog.shelter)
@@ -143,9 +146,9 @@
 * Wi-Fi Analyzer: [WiFiAnalyzer✈](https://f-droid.org/com.vrem.wifianalyzer)
 
 # Web Browsers
-* Chrome: [Bromite](https://f-droid.org/packages/org.bromite.bromite), [getChromium](https://f-droid.org/packages/com.anddevw.getchromium)
-* Firefox: [Fennec☁☂](https://f-droid.org/packages/org.mozilla.fennec_fdroid), [Tor Browser☁🕶](https://f-droid.org/packages/org.torproject.torbrowser)
-* WebView: [Privacy Browser☁☂](https://f-droid.org/packages/com.stoutner.privacybrowser.standard), [Lightning☁☂](https://f-droid.org/packages/acr.browser.lightning)
+* Blink: [Bromite](https://f-droid.org/packages/org.bromite.bromite), [getChromium](https://f-droid.org/packages/com.anddevw.getchromium)
+* Gecko: [Fennec☁☂](https://f-droid.org/packages/org.mozilla.fennec_fdroid), [Tor Browser☁🕶](https://f-droid.org/packages/org.torproject.torbrowser)
+* WebView: [Privacy Browser☁☂](https://f-droid.org/packages/com.stoutner.privacybrowser.standard), [Lightning☁☂](https://f-droid.org/packages/acr.browser.lightning), [FOSS Browser☁](https://f-droid.org/packages/de.baumann.browser)
 
 # Key
 * ⚠ High risk and has not been formally audited

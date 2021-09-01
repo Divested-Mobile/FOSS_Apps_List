@@ -1,6 +1,6 @@
 # Customization
-* Icons: [Ameixa✈](https://f-droid.org/packages/org.xphnx.ameixa)
-* Keyboard: [AnySoftKeyboard✈](https://f-droid.org/packages/com.menny.android.anysoftkeyboard)
+* Icons: [Ameixa✈](https://f-droid.org/packages/org.xphnx.ameixa), [Articons✈](https://f-droid.org/packages/com.donnnno.arcticons)
+* Keyboard: [AnySoftKeyboard✈](https://f-droid.org/packages/com.menny.android.anysoftkeyboard), [FlorisBoard✈](https://f-droid.org/packages/dev.patrickgold.florisboard)
 * Launcher: [KISS✈](https://f-droid.org/packages/fr.neamar.kiss)
 * Wallpaper: [Muzei](https://f-droid.org/packages/net.nurik.roman.muzei), [Mysplash](https://f-droid.org/packages/com.wangdaye.mysplash), [WPGen✈](https://f-droid.org/packages/net.glsk.wpgen)
 
@@ -46,11 +46,11 @@
 * Astronomy: [Suntimes✈](https://f-droid.org/packages/com.forrestguice.suntimeswidget)
 * Conversion: [Unit Converter Ultimate☁](https://f-droid.org/packages/com.physphil.android.unitconverterultimate)
 * Survival: [Survival Manual✈](https://f-droid.org/packages/org.ligi.survivalmanual), [Trail Sense✈](https://f-droid.org/packages/com.kylecorry.trail_sense)
-* Weather: [Forecastie☁](https://f-droid.org/packages/cz.martykan.forecastie)
+* Weather: [Forecastie☁](https://f-droid.org/packages/cz.martykan.forecastie), [Geometric Weather☁](https://f-droid.org/packages/wangdaye.com.geometricweather)
 * Wikipedia: [Wikipedia☁](https://f-droid.org/packages/org.wikipedia), [Kiwix☁](https://f-droid.org/packages/org.kiwix.kiwixmobile)
 
 # Location
-* Navigation: [OsmAnd☁☂](https://f-droid.org/packages/net.osmand.plus)
+* Navigation: [OsmAnd☁☂](https://f-droid.org/packages/net.osmand.plus), [Organic Maps☁](https://f-droid.org/packages/app.organicmaps)
 * Provider (If no microG): [UnifiedNLP✈](https://f-droid.org/packages/org.microg.nlp)
 * Location Backend: [DejaVu✈](https://f-droid.org/packages/org.fitchfamily.android.dejavu), [MozillaNlpBackend☁](https://f-droid.org/packages/org.microg.nlp.backend.ichnaea)
 * Reverse Lookup Backend: [NominatimNlpBackend☁](https://f-droid.org/packages/org.microg.nlp.backend.nominatim)
@@ -71,6 +71,7 @@
 * Barcode Scanner: [Binary Eye✈](https://f-droid.org/packages/de.markusfisch.android.binaryeye)
 * OBD2 Reader: [AndrOBD](https://f-droid.org/packages/com.fr3ts0n.ecu.gui.androbd)
 * RSS: [Flym☁](https://f-droid.org/packages/net.frju.flym), [spaRSS☁🕶](https://f-droid.org/packages/net.etuldan.sparss.floss)
+* Text to Speech: [RHVoice☁](https://f-droid.org/packages/com.github.olga_yakovleva.rhvoice.android), [eSpeakNG✈](https://f-droid.org/packages/com.reecedunn.espeak)
 
 # Network
 * Filtering (No Root): [DNS66](https://f-droid.org/packages/org.jak_linux.dns66), [NetGuard](https://f-droid.org/packages/eu.faircode.netguard)
@@ -90,7 +91,7 @@
 
 # Payments
 * Bitcoin: [Bitcoin Wallet](https://f-droid.org/packages/de.schildbach.wallet)
-* ~~Spy~~ Loyalty Cards: [Loyalty Card Keychain✈](https://f-droid.org/packages/protect.card_locker)
+* ~~Spy~~ Loyalty Cards: [Catima✈](https://f-droid.org/packages/me.hackerchick.catima)
 * Tap to Pay: [SwipeYours⚠✈](https://f-droid.org/packages/to.noc.android.swipeyours)
 
 # Reading
@@ -115,7 +116,7 @@
 * Email: [FairEmail](https://f-droid.org/packages/eu.faircode.email), [K-9 Mail](https://f-droid.org/packages/com.fsck.k9)
 * Email Chat: [Delta Chat](https://f-droid.org/packages/com.b44t.messenger)
 * Facebook: [Face Slim☁🕶](https://f-droid.org/packages/org.indywidualni.fblite)
-* IRC: [Simple IRC](https://f-droid.org/packages/tk.jordynsmediagroup.simpleirc.fdroid)
+* IRC: [Revolution IRC](https://f-droid.org/packages/io.mrarm.irc)
 * Matrix: [Element](https://f-droid.org/packages/im.vector.app)
 * Mumble: [Mumla🕶](https://f-droid.org/packages/se.lublin.mumla)
 * Other: [Briar🕶](https://f-droid.org/packages/org.briarproject.briar.android)
@@ -147,8 +148,8 @@
 
 # Web Browsers
 * Blink: [Bromite](https://f-droid.org/packages/org.bromite.bromite), [getChromium](https://f-droid.org/packages/com.anddevw.getchromium)
-* Gecko: [Fennec☁☂](https://f-droid.org/packages/org.mozilla.fennec_fdroid), [Tor Browser☁🕶](https://f-droid.org/packages/org.torproject.torbrowser)
-* WebView: [Privacy Browser☁☂](https://f-droid.org/packages/com.stoutner.privacybrowser.standard), [Lightning☁☂](https://f-droid.org/packages/acr.browser.lightning), [FOSS Browser☁](https://f-droid.org/packages/de.baumann.browser)
+* Gecko: [Mull☁☂](https://f-droid.org/packages/us.spotco.fennec_dos), [Fennec☁☂](https://f-droid.org/packages/org.mozilla.fennec_fdroid), [Tor Browser☁🕶](https://f-droid.org/packages/org.torproject.torbrowser)
+* WebView: [Privacy Browser☁☂](https://f-droid.org/packages/com.stoutner.privacybrowser.standard), [FOSS Browser☁](https://f-droid.org/packages/de.baumann.browser), [Lightning☁☂](https://f-droid.org/packages/acr.browser.lightning)
 
 # Key
 * ⚠ High risk and has not been formally audited

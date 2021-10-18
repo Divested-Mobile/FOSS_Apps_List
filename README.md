@@ -18,7 +18,7 @@
 * Scanning: [Open Note Scanner](https://f-droid.org/packages/com.todobom.opennotescanner)
 
 # Files
-* Encryption: [EDS Lite⚠✈](https://f-droid.org/packages/com.sovworks.edslite)
+* Encryption: [DroidFS⚠✈](https://f-droid.org/packages/sushi.hardcore.droidfs), [EDS Lite⚠✈](https://f-droid.org/packages/com.sovworks.edslite)
 * Hosted: [Nextcloud☁](https://f-droid.org/packages/com.nextcloud.android.beta)
 * Synced: [Syncthing☁☂](https://f-droid.org/packages/com.nutomic.syncthingandroid)
 
@@ -54,6 +54,7 @@
 * Provider (If no microG): [UnifiedNLP✈](https://f-droid.org/packages/org.microg.nlp)
 * Location Backend: [DejaVu✈](https://f-droid.org/packages/org.fitchfamily.android.dejavu), [MozillaNlpBackend☁](https://f-droid.org/packages/org.microg.nlp.backend.ichnaea)
 * Reverse Lookup Backend: [NominatimNlpBackend☁](https://f-droid.org/packages/org.microg.nlp.backend.nominatim)
+* Transit: [Transportr](https://f-droid.org/packages/de.grobox.liberario)
 
 # Media
 * Libresonic: [UltraSonic☁](https://f-droid.org/packages/org.moire.ultrasonic)
@@ -76,6 +77,7 @@
 # Network
 * Filtering (No Root): [DNS66](https://f-droid.org/packages/org.jak_linux.dns66), [NetGuard](https://f-droid.org/packages/eu.faircode.netguard)
 * Filtering (Root): [AdAway](https://f-droid.org/packages/org.adaway), [AFWall+](https://f-droid.org/packages/dev.ukanth.ufirewall)
+* Monitor: [PCAPdroid](https://f-droid.org/packages/com.emanuelef.remote_capture), [Net Monitor](https://f-droid.org/packages/org.secuso.privacyfriendlynetmonitor)
 * Proxies: [Orbot](https://f-droid.org/packages/org.torproject.android), [I2P](https://f-droid.org/packages/net.i2p.android.router)
 * VPN: [Bitmask](https://f-droid.org/packages/se.leap.bitmaskclient)
 * VPN (proper): [WireGuard](https://f-droid.org/packages/com.wireguard.android), [OpenVPN](https://f-droid.org/packages/de.blinkt.openvpn), [Tinc](https://f-droid.org/packages/org.pacien.tincapp)
@@ -121,14 +123,14 @@
 * Mumble: [Mumla🕶](https://f-droid.org/packages/se.lublin.mumla)
 * Other: [Briar🕶](https://f-droid.org/packages/org.briarproject.briar.android)
 * SIP: [Linphone](https://f-droid.org/packages/org.linphone)
-* SMS/MMS: [Silence](https://f-droid.org/packages/org.smssecure.smssecure), [QMSMS](https://f-droid.org/packages/com.moez.QKSMS)
+* SMS/MMS: [Silence](https://f-droid.org/packages/org.smssecure.smssecure), [QKSMS](https://f-droid.org/packages/com.moez.QKSMS)
 * Telegram: [Telegram](https://f-droid.org/packages/org.telegram.messenger)
 * Twitter: [Twidere☁🕶](https://f-droid.org/packages/org.mariotaku.twidere)
 * XMPP: [Conversations☁🕶](https://f-droid.org/packages/eu.siacs.conversations)
 
 # Social Forums
 * Hacker News: [Materialistic☁](https://f-droid.org/packages/io.github.hidroh.materialistic)
-* Reddit: [RedReader☁🕶](https://f-droid.org/packages/org.quantumbadger.redreader), [Slide☁](https://f-droid.org/packages/me.ccrama.redditslide)
+* Reddit: [RedReader☁🕶](https://f-droid.org/packages/org.quantumbadger.redreader), [Slide☁](https://f-droid.org/packages/me.ccrama.redditslide), [Infinity☁](https://f-droid.org/packages/ml.docilealligator.infinityforreddit)
 
 # Torrents
 * Torrent Client: [LibreTorrent](https://f-droid.org/packages/org.proninyaroslav.libretorrent)
@@ -141,7 +143,6 @@
 * Contacts Sync: [DAVx5☂](https://f-droid.org/packages/at.bitfire.davdroid), [EteSync🕶](https://f-droid.org/packages/com.etesync.syncadapter)
 * File Server: [primitive ftpd](https://f-droid.org/packages/org.primftpd)
 * GPS Tester: [GPSTest](https://f-droid.org/packages/om.android.gpstest.osmdroid)
-* Network Monitor: [Net Monitor](https://f-droid.org/packages/org.secuso.privacyfriendlynetmonitor)
 * Screen Sharing: [Screen Stream](https://f-droid.org/packages/info.dvkr.screenstream)
 * Terminal: [Termux](https://f-droid.org/packages/com.termux)
 * Wi-Fi Analyzer: [WiFiAnalyzer✈](https://f-droid.org/com.vrem.wifianalyzer)

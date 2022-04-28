@@ -78,7 +78,7 @@
 * Filtering (No Root): [RethinkDNS](https://f-droid.org/packages/com.celzero.bravedns), [NetGuard](https://f-droid.org/packages/eu.faircode.netguard), [DNS66](https://f-droid.org/packages/org.jak_linux.dns66)
 * Filtering (Root): [AdAway](https://f-droid.org/packages/org.adaway), [AFWall+](https://f-droid.org/packages/dev.ukanth.ufirewall)
 * Monitor: [PCAPdroid](https://f-droid.org/packages/com.emanuelef.remote_capture), [Net Monitor](https://f-droid.org/packages/org.secuso.privacyfriendlynetmonitor)
-* Proxies: [Orbot 3p](https://f-droid.org/packages/org.torproject.android), [I2P](https://f-droid.org/packages/net.i2p.android.router)
+* Proxies: [Orbot⎋](https://f-droid.org/packages/org.torproject.android), [I2P](https://f-droid.org/packages/net.i2p.android.router)
 * VPN: [Bitmask](https://f-droid.org/packages/se.leap.bitmaskclient)
 * VPN (proper): [WireGuard](https://f-droid.org/packages/com.wireguard.android), [OpenVPN](https://f-droid.org/packages/de.blinkt.openvpn), [Tinc](https://f-droid.org/packages/org.pacien.tincapp)
 
@@ -93,7 +93,7 @@
 # Payments
 * Bitcoin: [Bitcoin Wallet](https://f-droid.org/packages/de.schildbach.wallet)
 * ~~Spy~~ Loyalty Cards: [Catima✈](https://f-droid.org/packages/me.hackerchick.catima)
-* Tap to Pay: [SwipeYours⚠✈ 3p](https://f-droid.org/packages/to.noc.android.swipeyours)
+* Tap to Pay: [SwipeYours⚠✈⎋](https://f-droid.org/packages/to.noc.android.swipeyours)
 
 # Reading
 * E-Books: [Librera✈](https://f-droid.org/packages/com.foobnix.pro.pdf.reader), [Book Reader☁](https://f-droid.org/packages/com.github.axet.bookreader)
@@ -147,8 +147,8 @@
 * Wi-Fi Analyzer: [WiFiAnalyzer✈](https://f-droid.org/com.vrem.wifianalyzer)
 
 # Web Browsers
-* Blink: [Bromite 3p](https://f-droid.org/packages/org.bromite.bromite), [Mulch 3p](https://f-droid.org/packages/us.spotco.mulch)
-* Gecko: [Mull☁☂](https://f-droid.org/packages/us.spotco.fennec_dos), [Fennec☁☂](https://f-droid.org/packages/org.mozilla.fennec_fdroid), [Tor Browser☁🕶 3p](https://f-droid.org/packages/org.torproject.torbrowser)
+* Blink: [Bromite⎋](https://f-droid.org/packages/org.bromite.bromite), [Mulch⎋](https://f-droid.org/packages/us.spotco.mulch)
+* Gecko: [Mull☁☂](https://f-droid.org/packages/us.spotco.fennec_dos), [Fennec☁☂](https://f-droid.org/packages/org.mozilla.fennec_fdroid), [Tor Browser☁🕶⎋](https://f-droid.org/packages/org.torproject.torbrowser)
 * WebView: [Privacy Browser☁☂](https://f-droid.org/packages/com.stoutner.privacybrowser.standard), [FOSS Browser☁](https://f-droid.org/packages/de.baumann.browser), [Lightning☁☂](https://f-droid.org/packages/acr.browser.lightning)
 
 # Key
@@ -157,3 +157,4 @@
 * ☁ Data Friendly (Uses minimal data, provides limits, offers offline support, or respects Data Saver)
 * 🕶 Proxy Support (eg. Tor, HTTP, SOCKS)
 * ☂ Proxy Support, but is *not* recommended due to potential leaks (eg. location, real IP)
+* ⎋ Not in official F-Droid repository

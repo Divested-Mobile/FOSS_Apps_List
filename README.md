@@ -59,7 +59,7 @@
 # Media
 * Libresonic: [UltraSonic☁](https://f-droid.org/packages/org.moire.ultrasonic)
 * MPD: [M.A.L.P.](https://f-droid.org/packages/org.gateshipone.malp)
-* Music: [Vanilla✈](https://f-droid.org/packages/ch.blinkenlights.android.vanilla)
+* Music: [Vanilla✈](https://f-droid.org/packages/ch.blinkenlights.android.vanilla), [Music Player GO✈](https://f-droid.org/packages/com.iven.musicplayergo), [Auxio✈](https://f-droid.org/packages/org.oxycblt.auxio)
 * Peertube: [Thorium](https://f-droid.org/packages/net.schueller.peertube), [TubeLab](https://f-droid.org/packages/app.fedilab.tubelab)
 * Pictures: [Simple Gallery✈](https://f-droid.org/packages/com.simplemobiletools.gallery.pro)
 * Podcasts: [AntennaPod☁🕶](https://f-droid.org/packages/de.danoeh.antennapod)
@@ -75,18 +75,17 @@
 * Text to Speech: [RHVoice☁](https://f-droid.org/packages/com.github.olga_yakovleva.rhvoice.android), [eSpeakNG✈](https://f-droid.org/packages/com.reecedunn.espeak)
 
 # Network
-* Filtering (No Root): [DNS66](https://f-droid.org/packages/org.jak_linux.dns66), [NetGuard](https://f-droid.org/packages/eu.faircode.netguard)
+* Filtering (No Root): [RethinkDNS](https://f-droid.org/packages/com.celzero.bravedns), [NetGuard](https://f-droid.org/packages/eu.faircode.netguard), [DNS66](https://f-droid.org/packages/org.jak_linux.dns66)
 * Filtering (Root): [AdAway](https://f-droid.org/packages/org.adaway), [AFWall+](https://f-droid.org/packages/dev.ukanth.ufirewall)
 * Monitor: [PCAPdroid](https://f-droid.org/packages/com.emanuelef.remote_capture), [Net Monitor](https://f-droid.org/packages/org.secuso.privacyfriendlynetmonitor)
-* Proxies: [Orbot](https://f-droid.org/packages/org.torproject.android), [I2P](https://f-droid.org/packages/net.i2p.android.router)
+* Proxies: [Orbot 3p](https://f-droid.org/packages/org.torproject.android), [I2P](https://f-droid.org/packages/net.i2p.android.router)
 * VPN: [Bitmask](https://f-droid.org/packages/se.leap.bitmaskclient)
 * VPN (proper): [WireGuard](https://f-droid.org/packages/com.wireguard.android), [OpenVPN](https://f-droid.org/packages/de.blinkt.openvpn), [Tinc](https://f-droid.org/packages/org.pacien.tincapp)
 
 # Organization
-* Expenses: [My Expenses](https://f-droid.org/packages/org.totschnig.myexpenses)
+* Budget: [My Expenses](https://f-droid.org/packages/org.totschnig.myexpenses)
 * Habits: [Loop Habit Tracker](https://f-droid.org/packages/org.isoron.uhabits)
 * Journal: [Diary](https://f-droid.org/packages/org.billthefarmer.diary)
-* Local Calendar Adapter: [Offline Calendar✈](https://f-droid.org/packages/org.sufficientlysecure.localcalendar)
 * Notes: [Notes✈](https://f-droid.org/packages/org.secuso.privacyfriendlynotes), [SealNote⚠✈](https://f-droid.org/packages/com.twistedplane.sealnote)
 * Orgmode: [Orgzly](https://f-droid.org/packages/com.orgzly)
 * To Do: [Tasks✈](https://f-droid.org/packages/org.dmfs.tasks), [Tasks.org](https://f-droid.org/packages/org.tasks)
@@ -94,7 +93,7 @@
 # Payments
 * Bitcoin: [Bitcoin Wallet](https://f-droid.org/packages/de.schildbach.wallet)
 * ~~Spy~~ Loyalty Cards: [Catima✈](https://f-droid.org/packages/me.hackerchick.catima)
-* Tap to Pay: [SwipeYours⚠✈](https://f-droid.org/packages/to.noc.android.swipeyours)
+* Tap to Pay: [SwipeYours⚠✈ 3p](https://f-droid.org/packages/to.noc.android.swipeyours)
 
 # Reading
 * E-Books: [Librera✈](https://f-droid.org/packages/com.foobnix.pro.pdf.reader), [Book Reader☁](https://f-droid.org/packages/com.github.axet.bookreader)
@@ -103,9 +102,9 @@
 # Security
 * App Isolation: [Shelter✈](https://f-droid.org/packages/net.typeblog.shelter)
 * OpenPGP: [OpenKeychain☂](https://f-droid.org/packages/org.sufficientlysecure.keychain)
-* Passwords: [KeePassDX✈](https://f-droid.org/packages/com.kunzisoft.keepass.libre), [KeePassDroid✈](https://f-droid.org/packages/com.android.keepass), [Password Generator✈](https://f-droid.org/packages/org.secuso.privacyfriendlypasswordgenerator)
+* Passwords: [KeePassDX✈](https://f-droid.org/packages/com.kunzisoft.keepass.libre), [Password Generator✈](https://f-droid.org/packages/org.secuso.privacyfriendlypasswordgenerator)
 * Steganography: [Pixel Knot✈](https://f-droid.org/packages/info.guardianproject.pixelknot)
-* Two Factor Authenticaton: [andOTP✈](https://f-droid.org/packages/org.shadowice.flocke.andotp), [YubiKey✈](https://f-droid.org/packages/com.yubico.yubioath)
+* Two Factor Authenticaton: [Aegis✈](https://f-droid.org/packages/com.beemdevelopment.aegis), [YubiKey✈](https://f-droid.org/packages/com.yubico.yubioath)
 * Universal E2E Chat: [Oversec⚠✈](https://f-droid.org/packages/io.oversec.one)
 
 # Servers
@@ -123,7 +122,7 @@
 * Mumble: [Mumla🕶](https://f-droid.org/packages/se.lublin.mumla)
 * Other: [Briar🕶](https://f-droid.org/packages/org.briarproject.briar.android)
 * SIP: [Linphone](https://f-droid.org/packages/org.linphone)
-* SMS/MMS: [Silence](https://f-droid.org/packages/org.smssecure.smssecure), [QKSMS](https://f-droid.org/packages/com.moez.QKSMS)
+* SMS/MMS: [Silence](https://f-droid.org/packages/org.smssecure.smssecure)
 * Telegram: [Telegram](https://f-droid.org/packages/org.telegram.messenger)
 * Twitter: [Twidere☁🕶](https://f-droid.org/packages/org.mariotaku.twidere)
 * XMPP: [Conversations☁🕶](https://f-droid.org/packages/eu.siacs.conversations)
@@ -148,8 +147,8 @@
 * Wi-Fi Analyzer: [WiFiAnalyzer✈](https://f-droid.org/com.vrem.wifianalyzer)
 
 # Web Browsers
-* Blink: [Bromite](https://f-droid.org/packages/org.bromite.bromite), [getChromium](https://f-droid.org/packages/com.anddevw.getchromium)
-* Gecko: [Mull☁☂](https://f-droid.org/packages/us.spotco.fennec_dos), [Fennec☁☂](https://f-droid.org/packages/org.mozilla.fennec_fdroid), [Tor Browser☁🕶](https://f-droid.org/packages/org.torproject.torbrowser)
+* Blink: [Bromite 3p](https://f-droid.org/packages/org.bromite.bromite), [Mulch 3p](https://f-droid.org/packages/us.spotco.mulch)
+* Gecko: [Mull☁☂](https://f-droid.org/packages/us.spotco.fennec_dos), [Fennec☁☂](https://f-droid.org/packages/org.mozilla.fennec_fdroid), [Tor Browser☁🕶 3p](https://f-droid.org/packages/org.torproject.torbrowser)
 * WebView: [Privacy Browser☁☂](https://f-droid.org/packages/com.stoutner.privacybrowser.standard), [FOSS Browser☁](https://f-droid.org/packages/de.baumann.browser), [Lightning☁☂](https://f-droid.org/packages/acr.browser.lightning)
 
 # Key

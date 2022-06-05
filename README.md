@@ -21,13 +21,15 @@
 * Encryption: [DroidFS⚠✈](https://f-droid.org/packages/sushi.hardcore.droidfs), [EDS Lite⚠✈](https://f-droid.org/packages/com.sovworks.edslite)
 * Hosted: [Nextcloud☁](https://f-droid.org/packages/com.nextcloud.android.beta)
 * Synced: [Syncthing☁☂](https://f-droid.org/packages/com.nutomic.syncthingandroid)
+* Torrent Client: [LibreTorrent](https://f-droid.org/packages/org.proninyaroslav.libretorrent)
+* Torrent Client Manager: [Transdroid](https://f-droid.org/packages/org.transdroid.full)
 
 # Games
 * Addictive: [Tower Jumper✈](https://f-droid.org/packages/org.pipoypipagames.towerjumper)
 * Board: [Checkers✈](https://f-droid.org/packages/org.secuso.privacyfriendlydame), [Chess✈](https://f-droid.org/packages/com.alaskalinuxuser.justchess)
 * Cards: [Simple Solitaire✈](https://f-droid.org/packages/de.tobiasbielefeld.solitaire), [Pretend You're Xyzzy☁](https://f-droid.org/packages/com.gianlu.pretendyourexyzzy)
 * Classic: [Blockinger✈](https://f-droid.org/packages/org.blockinger.game), [Retro Breaker✈](https://f-droid.org/packages/br.usp.ime.retrobreaker), [Vector Pinball✈](https://f-droid.org/packages/com.dozingcatsoftware.bouncy)
-* Emulator: [Dolphin](https://f-droid.org/packages/org.dolphinemu.dolphinemu), [PPSSPP](https://f-droid.org/packages/org.ppsspp.ppsspp)
+* Emulator: [Lemuroid](https://f-droid.org/packages/com.swordfish.lemuroid), [Dolphin](https://f-droid.org/packages/org.dolphinemu.dolphinemu), [PPSSPP](https://f-droid.org/packages/org.ppsspp.ppsspp)
 * Platformer: [Cow's Revenge✈](https://f-droid.org/packages/org.pipoypipagames.cowsrevenge), [Replica Island](https://f-droid.org/packages/com.replica.replicaisland)
 * Puzzle: [1010! Klooni✈](https://f-droid.org/packages/dev.lonami.klooni), [2048✈](https://f-droid.org/packages/org.secuso.privacyfriendly2048), [Minesweeper✈](https://f-droid.org/packages/dev.lucanlm.antimine), [Sudoku✈](https://f-droid.org/packages/org.secuso.privacyfriendlysudoku)
 * Quest: [Andor's Trail✈](https://f-droid.org/packages/com.gpl.rpg.AndorsTrail)
@@ -43,7 +45,7 @@
 * Workout: [Sieben](https://f-droid.org/packages/de.baumann.sieben)
 
 # Information
-* Astronomy: [Suntimes✈](https://f-droid.org/packages/com.forrestguice.suntimeswidget)
+* Astronomy: [Suntimes✈](https://f-droid.org/packages/com.forrestguice.suntimeswidget), [Sky Map](https://f-droid.org/packages/com.google.android.stardroid)
 * Conversion: [Unit Converter Ultimate☁](https://f-droid.org/packages/com.physphil.android.unitconverterultimate)
 * Survival: [Survival Manual✈](https://f-droid.org/packages/org.ligi.survivalmanual), [Trail Sense✈](https://f-droid.org/packages/com.kylecorry.trail_sense)
 * Weather: [Forecastie☁](https://f-droid.org/packages/cz.martykan.forecastie), [Geometric Weather☁](https://f-droid.org/packages/wangdaye.com.geometricweather)
@@ -102,7 +104,7 @@
 # Security
 * App Isolation: [Shelter✈](https://f-droid.org/packages/net.typeblog.shelter)
 * OpenPGP: [OpenKeychain☂](https://f-droid.org/packages/org.sufficientlysecure.keychain)
-* Passwords: [KeePassDX✈](https://f-droid.org/packages/com.kunzisoft.keepass.libre), [Password Generator✈](https://f-droid.org/packages/org.secuso.privacyfriendlypasswordgenerator)
+* Passwords: [KeePassDX✈](https://f-droid.org/packages/com.kunzisoft.keepass.libre), [Password Generator⚠✈](https://f-droid.org/packages/org.secuso.privacyfriendlypasswordgenerator)
 * Steganography: [Pixel Knot✈](https://f-droid.org/packages/info.guardianproject.pixelknot)
 * Two Factor Authenticaton: [Aegis✈](https://f-droid.org/packages/com.beemdevelopment.aegis), [YubiKey✈](https://f-droid.org/packages/com.yubico.yubioath)
 * Universal E2E Chat: [Oversec⚠✈](https://f-droid.org/packages/io.oversec.one)
@@ -130,10 +132,6 @@
 # Social Forums
 * Hacker News: [Materialistic☁](https://f-droid.org/packages/io.github.hidroh.materialistic)
 * Reddit: [RedReader☁🕶](https://f-droid.org/packages/org.quantumbadger.redreader), [Slide☁](https://f-droid.org/packages/me.ccrama.redditslide), [Infinity☁](https://f-droid.org/packages/ml.docilealligator.infinityforreddit)
-
-# Torrents
-* Torrent Client: [LibreTorrent](https://f-droid.org/packages/org.proninyaroslav.libretorrent)
-* Torrent Client Manager: [Transdroid](https://f-droid.org/packages/org.transdroid.full)
 
 # Utilities
 * Backup (Root): [oandbackupx✈](https://f-droid.org/packages/com.machiav3lli.backup)

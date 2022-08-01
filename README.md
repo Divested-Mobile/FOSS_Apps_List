@@ -11,9 +11,9 @@
 * GitLab: [LabCoat](https://f-droid.org/packages/com.commit451.gitlab)
 
 # Documents
-* Office: [LibreOffice Viewer](https://f-droid.org/packages/org.documentfoundation.libreoffice)
-* PDF Editor: [PDF Converter🌐](https://f-droid.org/packages/swati4star.createpdf)
-* PDF Viewer: [Document Viewer](https://f-droid.org/packages/org.sufficientlysecure.viewer)
+* Office: [LibreOffice Viewer💀](https://f-droid.org/packages/org.documentfoundation.libreoffice)
+* PDF Editor: [PDF Converter💀🌐](https://f-droid.org/packages/swati4star.createpdf)
+* PDF Viewer: [Document Viewer💀](https://f-droid.org/packages/org.sufficientlysecure.viewer)
 * Printing (Pre Android 8.1): [CUPS Print](https://f-droid.org/packages/io.github.benoitduffez.cupsprint)
 * Scanning: [Open Note Scanner](https://f-droid.org/packages/com.todobom.opennotescanner)
 
@@ -53,7 +53,7 @@
 
 # Location
 * Navigation: [OsmAnd⛅☔](https://f-droid.org/packages/net.osmand.plus), [Organic Maps⛅](https://f-droid.org/packages/app.organicmaps)
-* Provider (If no microG): [UnifiedNLP🌐](https://f-droid.org/packages/org.microg.nlp)
+* Provider (If no microG): [UnifiedNlp🌐](https://f-droid.org/packages/org.microg.nlp)
 * Location Backend: [DejaVu🌐](https://f-droid.org/packages/org.fitchfamily.android.dejavu), [MozillaNlpBackend⛅](https://f-droid.org/packages/org.microg.nlp.backend.ichnaea)
 * Reverse Lookup Backend: [NominatimNlpBackend⛅](https://f-droid.org/packages/org.microg.nlp.backend.nominatim)
 * Transit: [Transportr](https://f-droid.org/packages/de.grobox.liberario)
@@ -98,7 +98,7 @@
 * Tap to Pay: [SwipeYours⚠️🌐🔀](https://f-droid.org/packages/to.noc.android.swipeyours)
 
 # Reading
-* E-Books: [Librera🌐](https://f-droid.org/packages/com.foobnix.pro.pdf.reader), [Book Reader⛅](https://f-droid.org/packages/com.github.axet.bookreader)
+* E-Books: [Librera🌐](https://f-droid.org/packages/com.foobnix.pro.pdf.reader), [Book Reader💀⛅](https://f-droid.org/packages/com.github.axet.bookreader)
 * Religious Texts: [The Light🌐](https://f-droid.org/packages/org.hlwd.bible)
 
 # Security
@@ -124,7 +124,7 @@
 * Mumble: [Mumla🥸](https://f-droid.org/packages/se.lublin.mumla)
 * Other: [Briar🥸](https://f-droid.org/packages/org.briarproject.briar.android)
 * SIP: [Linphone](https://f-droid.org/packages/org.linphone)
-* SMS/MMS: [Silence](https://f-droid.org/packages/org.smssecure.smssecure)
+* SMS/MMS: [Silence⚠️](https://f-droid.org/packages/org.smssecure.smssecure)
 * Telegram: [Telegram](https://f-droid.org/packages/org.telegram.messenger)
 * Twitter: [Twidere⛅🥸](https://f-droid.org/packages/org.mariotaku.twidere)
 * XMPP: [Conversations⛅🥸](https://f-droid.org/packages/eu.siacs.conversations)
@@ -150,6 +150,7 @@
 * WebView: [Privacy Browser⛅☔](https://f-droid.org/packages/com.stoutner.privacybrowser.standard), [FOSS Browser⛅](https://f-droid.org/packages/de.baumann.browser), [Lightning⛅☔](https://f-droid.org/packages/acr.browser.lightning)
 
 # Key
+* 💀 Known security issues
 * ⚠️ High risk and has not been formally audited
 * 🌐 No Network Permission
 * ⛅ Data Friendly (Uses minimal data, provides limits, offers offline support, or respects Data Saver)

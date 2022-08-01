@@ -127,7 +127,7 @@
 * SMS/MMS: [Silence⚠️](https://f-droid.org/packages/org.smssecure.smssecure)
 * Telegram: [Telegram](https://f-droid.org/packages/org.telegram.messenger)
 * Twitter: [Twidere⛅🥸](https://f-droid.org/packages/org.mariotaku.twidere)
-* XMPP: [Conversations⛅🥸](https://f-droid.org/packages/eu.siacs.conversations)
+* XMPP: [Conversations💀⛅🥸](https://f-droid.org/packages/eu.siacs.conversations)
 
 # Social Forums
 * Hacker News: [Materialistic⛅](https://f-droid.org/packages/io.github.hidroh.materialistic)
@@ -150,8 +150,8 @@
 * WebView: [Privacy Browser⛅☔](https://f-droid.org/packages/com.stoutner.privacybrowser.standard), [FOSS Browser⛅](https://f-droid.org/packages/de.baumann.browser), [Lightning⛅☔](https://f-droid.org/packages/acr.browser.lightning)
 
 # Key
-* 💀 Known security issues
-* ⚠️ High risk and has not been formally audited
+* 💀 Known security issues, see [appsec.txt](https://divestos.org/misc/appsec.txt)
+* ⚠️ High risk OR has not been formally audited
 * 🌐 No Network Permission
 * ⛅ Data Friendly (Uses minimal data, provides limits, offers offline support, or respects Data Saver)
 * 🥸 Proxy Support (eg. Tor, HTTP, SOCKS)

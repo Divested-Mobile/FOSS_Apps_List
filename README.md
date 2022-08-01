@@ -14,6 +14,7 @@
 * General Viewer: [Librera🌐](https://f-droid.org/packages/com.foobnix.pro.pdf.reader)
 * Office: [LibreOffice Viewer💀](https://f-droid.org/packages/org.documentfoundation.libreoffice)
 * PDF Editor: [PDF Converter💀🌐](https://f-droid.org/packages/swati4star.createpdf)
+* PDF Viewer: [Secure PDF Viewer🌐🔀](https://github.com/GrapheneOS/PdfViewer/releases)
 * Printing (Pre Android 8.1): [CUPS Print](https://f-droid.org/packages/io.github.benoitduffez.cupsprint)
 * Scanning: [Open Note Scanner](https://f-droid.org/packages/com.todobom.opennotescanner)
 
@@ -59,6 +60,7 @@
 * Transit: [Transportr](https://f-droid.org/packages/de.grobox.liberario)
 
 # Media
+* Camera: [Secure Camera🌐🔀](https://github.com/GrapheneOS/Camera/releases), [Open Camera🌐](https://f-droid.org/packages/net.sourceforge.opencamera)
 * Libresonic: [UltraSonic⛅](https://f-droid.org/packages/org.moire.ultrasonic)
 * MPD: [M.A.L.P.](https://f-droid.org/packages/org.gateshipone.malp)
 * Music: [Vanilla🌐](https://f-droid.org/packages/ch.blinkenlights.android.vanilla), [Music Player GO🌐](https://f-droid.org/packages/com.iven.musicplayergo), [Auxio🌐](https://f-droid.org/packages/org.oxycblt.auxio)
@@ -80,7 +82,7 @@
 * Filtering (No Root): [RethinkDNS](https://f-droid.org/packages/com.celzero.bravedns), [NetGuard](https://f-droid.org/packages/eu.faircode.netguard), [DNS66](https://f-droid.org/packages/org.jak_linux.dns66)
 * Filtering (Root): [AdAway](https://f-droid.org/packages/org.adaway), [AFWall+](https://f-droid.org/packages/dev.ukanth.ufirewall)
 * Monitor: [PCAPdroid](https://f-droid.org/packages/com.emanuelef.remote_capture), [Net Monitor](https://f-droid.org/packages/org.secuso.privacyfriendlynetmonitor)
-* Proxies: [Orbot🔀](https://f-droid.org/packages/org.torproject.android), [I2P](https://f-droid.org/packages/net.i2p.android.router)
+* Proxies: [Orbot🔀](https://github.com/guardianproject/orbot/releases), [I2P](https://f-droid.org/packages/net.i2p.android.router)
 * VPN: [Bitmask](https://f-droid.org/packages/se.leap.bitmaskclient)
 * VPN (proper): [WireGuard](https://f-droid.org/packages/com.wireguard.android), [OpenVPN](https://f-droid.org/packages/de.blinkt.openvpn), [Tinc](https://f-droid.org/packages/org.pacien.tincapp)
 
@@ -94,8 +96,7 @@
 
 # Payments
 * Bitcoin: [Bitcoin Wallet](https://f-droid.org/packages/de.schildbach.wallet)
-* ~~Spy~~ Loyalty Cards: [Catima🌐](https://f-droid.org/packages/me.hackerchick.catima)
-* Tap to Pay: [SwipeYours⚠️🌐🔀](https://f-droid.org/packages/to.noc.android.swipeyours)
+* "Loyalty" Cards: [Catima🌐](https://f-droid.org/packages/me.hackerchick.catima)
 
 # Reading
 * E-Books: [Librera🌐](https://f-droid.org/packages/com.foobnix.pro.pdf.reader), [Book Reader💀⛅](https://f-droid.org/packages/com.github.axet.bookreader)
@@ -145,7 +146,7 @@
 * Wi-Fi Analyzer: [WiFiAnalyzer🌐](https://f-droid.org/com.vrem.wifianalyzer)
 
 # Web Browsers
-* Blink: [Bromite🔀](https://f-droid.org/packages/org.bromite.bromite), [Mulch🔀](https://f-droid.org/packages/us.spotco.mulch)
+* Blink: [Bromite🔀](https://www.bromite.org/fdroid), [Mulch🔀](https://divestos.org/index.php?page=our_apps#mulch)
 * Gecko: [Mull⛅☔](https://f-droid.org/packages/us.spotco.fennec_dos), [Fennec⛅☔](https://f-droid.org/packages/org.mozilla.fennec_fdroid), [Tor Browser⛅🥸🔀](https://f-droid.org/packages/org.torproject.torbrowser)
 * WebView: [Privacy Browser⛅☔](https://f-droid.org/packages/com.stoutner.privacybrowser.standard), [FOSS Browser⛅](https://f-droid.org/packages/de.baumann.browser), [Lightning⛅☔](https://f-droid.org/packages/acr.browser.lightning)
 

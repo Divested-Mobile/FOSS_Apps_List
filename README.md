@@ -11,9 +11,9 @@
 * GitLab: [LabCoat](https://f-droid.org/packages/com.commit451.gitlab)
 
 # Documents
+* General Viewer: [Librera🌐](https://f-droid.org/packages/com.foobnix.pro.pdf.reader)
 * Office: [LibreOffice Viewer💀](https://f-droid.org/packages/org.documentfoundation.libreoffice)
 * PDF Editor: [PDF Converter💀🌐](https://f-droid.org/packages/swati4star.createpdf)
-* PDF Viewer: [Document Viewer💀](https://f-droid.org/packages/org.sufficientlysecure.viewer)
 * Printing (Pre Android 8.1): [CUPS Print](https://f-droid.org/packages/io.github.benoitduffez.cupsprint)
 * Scanning: [Open Note Scanner](https://f-droid.org/packages/com.todobom.opennotescanner)
 

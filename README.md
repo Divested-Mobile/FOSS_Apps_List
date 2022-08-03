@@ -99,7 +99,7 @@
 * "Loyalty" Cards: [Catima🌐](https://f-droid.org/packages/me.hackerchick.catima)
 
 # Reading
-* E-Books: [Librera🌐](https://f-droid.org/packages/com.foobnix.pro.pdf.reader), [Book Reader💀⛅](https://f-droid.org/packages/com.github.axet.bookreader)
+* E-Books: [Librera🌐](https://f-droid.org/packages/com.foobnix.pro.pdf.reader), [Book Reader⛅](https://f-droid.org/packages/com.github.axet.bookreader)
 * Religious Texts: [The Light🌐](https://f-droid.org/packages/org.hlwd.bible)
 
 # Security
@@ -128,7 +128,7 @@
 * SMS/MMS: [Silence⚠️](https://f-droid.org/packages/org.smssecure.smssecure)
 * Telegram: [Telegram](https://f-droid.org/packages/org.telegram.messenger)
 * Twitter: [Twidere⛅🥸](https://f-droid.org/packages/org.mariotaku.twidere)
-* XMPP: [Conversations💀⛅🥸](https://f-droid.org/packages/eu.siacs.conversations)
+* XMPP: [Conversations⛅🥸](https://f-droid.org/packages/eu.siacs.conversations)
 
 # Social Forums
 * Hacker News: [Materialistic⛅](https://f-droid.org/packages/io.github.hidroh.materialistic)

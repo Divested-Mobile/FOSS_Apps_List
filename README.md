@@ -54,9 +54,6 @@
 
 # Location
 * Navigation: [OsmAnd⛅☔](https://f-droid.org/packages/net.osmand.plus), [Organic Maps⛅](https://f-droid.org/packages/app.organicmaps)
-* Provider (If no microG): [UnifiedNlp🌐](https://f-droid.org/packages/org.microg.nlp)
-* Location Backend: [DejaVu🌐](https://f-droid.org/packages/org.fitchfamily.android.dejavu), [MozillaNlpBackend⛅](https://f-droid.org/packages/org.microg.nlp.backend.ichnaea)
-* Reverse Lookup Backend: [NominatimNlpBackend⛅](https://f-droid.org/packages/org.microg.nlp.backend.nominatim)
 * Transit: [Transportr](https://f-droid.org/packages/de.grobox.liberario)
 
 # Media
@@ -79,8 +76,7 @@
 * Text to Speech: [RHVoice⛅](https://f-droid.org/packages/com.github.olga_yakovleva.rhvoice.android), [eSpeakNG🌐](https://f-droid.org/packages/com.reecedunn.espeak)
 
 # Network
-* Filtering (No Root): [RethinkDNS](https://f-droid.org/packages/com.celzero.bravedns), [NetGuard](https://f-droid.org/packages/eu.faircode.netguard), [DNS66](https://f-droid.org/packages/org.jak_linux.dns66)
-* Filtering (Root): [AdAway](https://f-droid.org/packages/org.adaway), [AFWall+](https://f-droid.org/packages/dev.ukanth.ufirewall)
+* Filtering: [RethinkDNS](https://f-droid.org/packages/com.celzero.bravedns), [NetGuard](https://f-droid.org/packages/eu.faircode.netguard), [DNS66](https://f-droid.org/packages/org.jak_linux.dns66)
 * Monitor: [PCAPdroid](https://f-droid.org/packages/com.emanuelef.remote_capture), [Net Monitor](https://f-droid.org/packages/org.secuso.privacyfriendlynetmonitor)
 * Proxies: [Orbot🔀](https://github.com/guardianproject/orbot/releases), [I2P](https://f-droid.org/packages/net.i2p.android.router)
 * VPN: [Bitmask](https://f-droid.org/packages/se.leap.bitmaskclient)
@@ -135,7 +131,6 @@
 * Reddit: [RedReader⛅🥸](https://f-droid.org/packages/org.quantumbadger.redreader), [Slide⛅](https://f-droid.org/packages/me.ccrama.redditslide), [Infinity⛅](https://f-droid.org/packages/ml.docilealligator.infinityforreddit)
 
 # Utilities
-* Backup (Root): [oandbackupx🌐](https://f-droid.org/packages/com.machiav3lli.backup)
 * Battery Monitoring: [BatteryBot🌐](https://f-droid.org/packages/com.darshancomputing.BatteryIndicatorPro)
 * Clipboard History: [Clip Stack🌐](https://f-droid.org/packages/com.catchingnow.tinyclipboardmanager)
 * Contacts Sync: [DAVx5☔](https://f-droid.org/packages/at.bitfire.davdroid), [EteSync🥸](https://f-droid.org/packages/com.etesync.syncadapter)

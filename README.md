@@ -124,7 +124,7 @@
 * SMS/MMS: [Silence⚠️](https://f-droid.org/packages/org.smssecure.smssecure)
 * Telegram: [Telegram](https://f-droid.org/packages/org.telegram.messenger)
 * Twitter: [Twidere⛅🥸](https://f-droid.org/packages/org.mariotaku.twidere)
-* XMPP: [Conversations⛅🥸](https://f-droid.org/packages/eu.siacs.conversations)
+* XMPP: [Conversations⛅🥸](https://f-droid.org/packages/eu.siacs.conversations), [Cheogram⛅🥸](https://f-droid.org/packages/com.cheogram.android)
 
 # Social Forums
 * Hacker News: [Materialistic⛅](https://f-droid.org/packages/io.github.hidroh.materialistic)

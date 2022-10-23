@@ -11,7 +11,7 @@
 * GitLab: [LabCoat](https://f-droid.org/packages/com.commit451.gitlab)
 
 # Documents
-* General Viewer: [Librera🌐](https://f-droid.org/packages/com.foobnix.pro.pdf.reader)
+* General Viewer: [Librera🌐💀](https://f-droid.org/packages/com.foobnix.pro.pdf.reader)
 * Office: [LibreOffice Viewer💀](https://f-droid.org/packages/org.documentfoundation.libreoffice)
 * PDF Editor: [PDF Converter💀🌐](https://f-droid.org/packages/swati4star.createpdf)
 * PDF Viewer: [Secure PDF Viewer🌐🔀](https://github.com/GrapheneOS/PdfViewer/releases)
@@ -54,7 +54,7 @@
 
 # Location
 * Navigation: [OsmAnd⛅☔](https://f-droid.org/packages/net.osmand.plus), [Organic Maps⛅](https://f-droid.org/packages/app.organicmaps)
-* Transit: [Transportr](https://f-droid.org/packages/de.grobox.liberario)
+* Transit: [Offi](https://f-droid.org/packages/de.schildbach.oeffi), [Transportr](https://f-droid.org/packages/de.grobox.liberario)
 
 # Media
 * Camera: [Secure Camera🌐🔀](https://github.com/GrapheneOS/Camera/releases), [Open Camera🌐](https://f-droid.org/packages/net.sourceforge.opencamera)
@@ -95,7 +95,7 @@
 * "Loyalty" Cards: [Catima🌐](https://f-droid.org/packages/me.hackerchick.catima)
 
 # Reading
-* E-Books: [Librera🌐](https://f-droid.org/packages/com.foobnix.pro.pdf.reader), [Book Reader⛅](https://f-droid.org/packages/com.github.axet.bookreader)
+* E-Books: [Librera🌐💀](https://f-droid.org/packages/com.foobnix.pro.pdf.reader), [Book Reader⛅](https://f-droid.org/packages/com.github.axet.bookreader)
 * Religious Texts: [The Light🌐](https://f-droid.org/packages/org.hlwd.bible)
 
 # Security

@@ -138,7 +138,7 @@
 * GPS Tester: [GPSTest](https://f-droid.org/packages/om.android.gpstest.osmdroid)
 * Screen Sharing: [Screen Stream](https://f-droid.org/packages/info.dvkr.screenstream)
 * Terminal: [Termux](https://f-droid.org/packages/com.termux)
-* Wi-Fi Analyzer: [WiFiAnalyzer🌐](https://f-droid.org/com.vrem.wifianalyzer)
+* Wi-Fi Analyzer: [WiFiAnalyzer🌐](https://f-droid.org/packages/com.vrem.wifianalyzer/) 
 
 # Web Browsers
 * Blink: [Bromite🔀](https://www.bromite.org/fdroid), [Mulch🔀](https://divestos.org/index.php?page=our_apps#mulch)

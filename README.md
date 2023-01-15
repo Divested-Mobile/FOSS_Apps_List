@@ -12,7 +12,7 @@
 
 # Documents
 * General Viewer: [Librera🌐💀](https://f-droid.org/packages/com.foobnix.pro.pdf.reader)
-* Office: [LibreOffice Viewer💀](https://f-droid.org/packages/org.documentfoundation.libreoffice)
+* Office: [LibreOffice Viewer](https://f-droid.org/packages/org.documentfoundation.libreoffice)
 * PDF Editor: [PDF Converter💀🌐](https://f-droid.org/packages/swati4star.createpdf)
 * PDF Viewer: [Secure PDF Viewer🌐🔀](https://github.com/GrapheneOS/PdfViewer/releases)
 * Printing (Pre Android 8.1): [CUPS Print](https://f-droid.org/packages/io.github.benoitduffez.cupsprint)

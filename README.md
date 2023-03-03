@@ -96,7 +96,7 @@
 
 # Reading
 * E-Books: [Librera🌐](https://f-droid.org/packages/com.foobnix.pro.pdf.reader), [Book Reader🌐](https://f-droid.org/packages/com.github.axet.bookreader)
-* Religious Texts: [The Light🌐](https://f-droid.org/packages/org.hlwd.bible)
+* Religious Texts: [The Light🌐](https://f-droid.org/packages/org.hlwd.bible), [AndBible](https://f-droid.org/packages/net.bible.android.activity)
 
 # Security
 * App Isolation: [Shelter🌐](https://f-droid.org/packages/net.typeblog.shelter)

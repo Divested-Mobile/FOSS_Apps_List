@@ -42,8 +42,9 @@
 
 # Health
 * Cycling: [AAT](https://f-droid.org/packages/ch.bailu.aat)
-* Pedometer: Suggestions Welcome!
-* Workout: Suggestions Welcome!
+* Fitness Tracker: [FitoTrack](https://f-droid.org/packages/de.tadris.fitness)
+* Pedometer: [Paseo](https://f-droid.org/packages/ca.chancehorizon.paseo)
+* Workout: [openWorkout](https://f-droid.org/packages/com.health.openworkout)
 
 # Information
 * Astronomy: [Suntimes🌐](https://f-droid.org/packages/com.forrestguice.suntimeswidget), [Sky Map](https://f-droid.org/packages/com.google.android.stardroid)
@@ -132,6 +133,7 @@
 
 # Utilities
 * Battery Monitoring: [BatteryBot🌐](https://f-droid.org/packages/com.darshancomputing.BatteryIndicatorPro)
+* Browser Updater: [FFUpdater](https://f-droid.org/packages/de.marmaro.krt.ffupdater)
 * Clipboard History: [Clip Stack🌐](https://f-droid.org/packages/com.catchingnow.tinyclipboardmanager)
 * Contacts Sync: [DAVx5☔](https://f-droid.org/packages/at.bitfire.davdroid), [EteSync🥸](https://f-droid.org/packages/com.etesync.syncadapter)
 * File Server: [primitive ftpd](https://f-droid.org/packages/org.primftpd)
@@ -139,12 +141,6 @@
 * Screen Sharing: [Screen Stream](https://f-droid.org/packages/info.dvkr.screenstream)
 * Terminal: [Termux](https://f-droid.org/packages/com.termux)
 * Wi-Fi Analyzer: [WiFiAnalyzer🌐](https://f-droid.org/packages/com.vrem.wifianalyzer/) 
-
-# Web Browsers
-* Variety Updater: [FFUpdater](https://f-droid.org/packages/de.marmaro.krt.ffupdater)
-* Blink: [Bromite🔀](https://www.bromite.org/fdroid), [Mulch🔀](https://divestos.org/index.php?page=our_apps#mulch)
-* Gecko: [Mull⛅☔](https://f-droid.org/packages/us.spotco.fennec_dos), [Fennec⛅☔](https://f-droid.org/packages/org.mozilla.fennec_fdroid), [Tor Browser⛅🥸🔀](https://www.torproject.org/download/#android)
-* WebView: [Privacy Browser⛅☔](https://f-droid.org/packages/com.stoutner.privacybrowser.standard), [FOSS Browser⛅](https://f-droid.org/packages/de.baumann.browser), [Lightning⛅☔](https://f-droid.org/packages/acr.browser.lightning)
 
 # Key
 * 💀 Known security issues, see [appsec.txt](https://divestos.org/misc/appsec.txt)

@@ -63,7 +63,7 @@
 * MPD: [M.A.L.P.](https://f-droid.org/packages/org.gateshipone.malp)
 * Music: [Auxio🌐](https://f-droid.org/packages/org.oxycblt.auxio), [Vanilla🌐](https://f-droid.org/packages/ch.blinkenlights.android.vanilla), [Music Player GO🌐](https://f-droid.org/packages/com.iven.musicplayergo)
 * Peertube: [Thorium](https://f-droid.org/packages/net.schueller.peertube), [TubeLab](https://f-droid.org/packages/app.fedilab.tubelab)
-* Pictures: [Simple Gallery🌐](https://f-droid.org/packages/com.simplemobiletools.gallery.pro)
+* Pictures: [Simple Mobile Tools Gallery🌐](https://f-droid.org/packages/com.simplemobiletools.gallery.pro)
 * Podcasts: [AntennaPod⛅🥸](https://f-droid.org/packages/de.danoeh.antennapod)
 * Radio: [RadioDroid☔](https://f-droid.org/packages/net.programmierecke.radiodroid2), [Transistor](https://f-droid.org/packages/org.y20k.transistor)
 * Twitch: [Twire](https://f-droid.org/packages/com.perflyst.twire)

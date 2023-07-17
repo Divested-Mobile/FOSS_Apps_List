@@ -89,6 +89,7 @@
 * Journal: [Diary](https://f-droid.org/packages/org.billthefarmer.diary)
 * Notes: [Notes🌐](https://f-droid.org/packages/org.secuso.privacyfriendlynotes), [SealNote⚠️🌐](https://f-droid.org/packages/com.twistedplane.sealnote)
 * Orgmode: [Orgzly](https://f-droid.org/packages/com.orgzly)
+* Time Tracker [Simple Time Tracker🌐](https://f-droid.org/packages/com.razeeman.util.simpletimetracker)
 * To Do: [Tasks🌐](https://f-droid.org/packages/org.dmfs.tasks), [Tasks.org](https://f-droid.org/packages/org.tasks)
 
 # Payments

@@ -55,6 +55,7 @@
 
 # Location
 * Navigation: [OsmAnd⛅☔](https://f-droid.org/packages/net.osmand.plus), [Organic Maps⛅](https://f-droid.org/packages/app.organicmaps)
+* Traffic: [Qz](https://f-droid.org/packages/com.vonglasow.michael.qz/), [RoadEagle](https://f-droid.org/packages/org.traffxml.roadeagle/)
 * Transit: [Offi](https://f-droid.org/packages/de.schildbach.oeffi), [Transportr](https://f-droid.org/packages/de.grobox.liberario)
 
 # Media

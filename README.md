@@ -27,7 +27,7 @@
 
 # Games
 * Addictive: [Tower Jumper🌐](https://f-droid.org/packages/org.pipoypipagames.towerjumper)
-* Board: [Checkers🌐](https://f-droid.org/packages/org.secuso.privacyfriendlydame), [Chess🌐](https://f-droid.org/packages/com.alaskalinuxuser.justchess)
+* Board: [Checkers🌐](https://f-droid.org/packages/org.secuso.privacyfriendlydame), [Chess🌐](https://f-droid.org/packages/com.alaskalinuxuser.justchess), [lichess](https://f-droid.org/packages/org.lichess.mobileapp.free)
 * Cards: [Simple Solitaire🌐](https://f-droid.org/packages/de.tobiasbielefeld.solitaire)
 * Classic: [Blockinger🌐](https://f-droid.org/packages/org.blockinger.game), [Retro Breaker🌐](https://f-droid.org/packages/br.usp.ime.retrobreaker), [Vector Pinball🌐](https://f-droid.org/packages/com.dozingcatsoftware.bouncy)
 * Emulator: [Lemuroid](https://f-droid.org/packages/com.swordfish.lemuroid), [Dolphin](https://f-droid.org/packages/org.dolphinemu.dolphinemu), [PPSSPP](https://f-droid.org/packages/org.ppsspp.ppsspp)
@@ -81,8 +81,9 @@
 * Filtering: [RethinkDNS](https://f-droid.org/packages/com.celzero.bravedns), [NetGuard](https://f-droid.org/packages/eu.faircode.netguard), [DNS66](https://f-droid.org/packages/org.jak_linux.dns66)
 * Monitor: [PCAPdroid](https://f-droid.org/packages/com.emanuelef.remote_capture)
 * Proxies: [Orbot🔀](https://github.com/guardianproject/orbot/releases), [I2P](https://f-droid.org/packages/net.i2p.android.router)
-* VPN: [Bitmask](https://f-droid.org/packages/se.leap.bitmaskclient)
 * VPN (proper): [WireGuard](https://f-droid.org/packages/com.wireguard.android), [OpenVPN](https://f-droid.org/packages/de.blinkt.openvpn), [Tinc](https://f-droid.org/packages/org.pacien.tincapp)
+* VPN (paid): [Mullvad](https://f-droid.org/packages/net.mullvad.mullvadvpn)
+* VPN (free): [Riseup](https://f-droid.org/en/packages/se.leap.riseupvpn/) ([donate](https://liberapay.com/riseupvpn))
 
 # Organization
 * Budget: [My Expenses](https://f-droid.org/packages/org.totschnig.myexpenses)

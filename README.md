@@ -64,7 +64,7 @@
 * MPD: [M.A.L.P.](https://f-droid.org/packages/org.gateshipone.malp)
 * Music: [Auxio🌐](https://f-droid.org/packages/org.oxycblt.auxio), [Vanilla🌐](https://f-droid.org/packages/ch.blinkenlights.android.vanilla), [Music Player GO🌐](https://f-droid.org/packages/com.iven.musicplayergo)
 * Peertube: [Thorium](https://f-droid.org/packages/net.schueller.peertube), [TubeLab](https://f-droid.org/packages/app.fedilab.tubelab)
-* Pictures: [Simple Mobile Tools Gallery🌐](https://f-droid.org/packages/com.simplemobiletools.gallery.pro)
+* Pictures: [Fossify Gallery🌐](https://f-droid.org/packages/org.fossify.gallery)
 * Podcasts: [AntennaPod⛅🥸](https://f-droid.org/packages/de.danoeh.antennapod)
 * Radio: [RadioDroid☔](https://f-droid.org/packages/net.programmierecke.radiodroid2), [Transistor](https://f-droid.org/packages/org.y20k.transistor)
 * Twitch: [Twire](https://f-droid.org/packages/com.perflyst.twire)
@@ -83,7 +83,7 @@
 * Proxies: [Orbot🔀](https://github.com/guardianproject/orbot/releases), [I2P](https://f-droid.org/packages/net.i2p.android.router)
 * VPN (proper): [WireGuard](https://f-droid.org/packages/com.wireguard.android), [OpenVPN](https://f-droid.org/packages/de.blinkt.openvpn), [Tinc](https://f-droid.org/packages/org.pacien.tincapp)
 * VPN (paid): [Mullvad](https://f-droid.org/packages/net.mullvad.mullvadvpn)
-* VPN (free): [Riseup](https://f-droid.org/en/packages/se.leap.riseupvpn/) ([donate](https://liberapay.com/riseupvpn))
+* VPN (free): [Riseup](https://f-droid.org/en/packages/se.leap.riseupvpn/) ([donate](https://riseup.net/en/vpn#donate))
 
 # Organization
 * Budget: [My Expenses](https://f-droid.org/packages/org.totschnig.myexpenses)

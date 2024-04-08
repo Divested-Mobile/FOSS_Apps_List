@@ -92,13 +92,25 @@
 # Miscellaneous
 * AirTag/Tracker Detector: [AirGuard](https://f-droid.org/packages/de.seemoo.at_tracking_detection)
 * Barcode Scanner: [Binary Eye](https://f-droid.org/packages/de.markusfisch.android.binaryeye)
+* Battery Monitoring: [BatteryBot🌐☠️](https://f-droid.org/packages/com.darshancomputing.BatteryIndicatorPro)
+* Browser Updater: [FFUpdater](https://f-droid.org/packages/de.marmaro.krt.ffupdater)
+* Call Blocker: [Silence🌐☠️](https://f-droid.org/packages/me.lucky.silence)
+* Clipboard History: [Clip Stack🌐☠️](https://f-droid.org/packages/com.catchingnow.tinyclipboardmanager)
+* Contacts Sync: [DAVx5☔](https://f-droid.org/packages/at.bitfire.davdroid), [EteSync🥸](https://f-droid.org/packages/com.etesync.syncadapter)
+* EXIF Remover: [Scrambled Exif🌐](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif)
+* File Server: [primitive ftpd](https://f-droid.org/packages/org.primftpd)
 * Find My Device: [Find My Device](https://f-droid.org/packages/de.nulide.findmydevice)
+* Flashlight: [FlashDim🌐](https://f-droid.org/packages/com.cyb3rko.flashdim)
+* GPS Tester: [GPSTest](https://f-droid.org/packages/com.android.gpstest.osmdroid)
 * OBD2 Reader: [AndrOBD](https://f-droid.org/packages/com.fr3ts0n.ecu.gui.androbd)
 * RSS: [Nunti⛅](https://f-droid.org/packages/com.nunti), [Flym⛅☠️](https://f-droid.org/packages/net.frju.flym), [spaRSS⛅🥸☠️](https://f-droid.org/packages/net.etuldan.sparss.floss)
 * Ruler: [GuessIron🌐](https://f-droid.org/packages/de.indie42.guessiron)
+* Screen Sharing: [Screen Stream](https://f-droid.org/packages/info.dvkr.screenstream)
 * Smartwatch: [Gadgetbridge](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge)
+* Terminal: [Termux](https://f-droid.org/packages/com.termux)
 * Text to Speech: [RHVoice⛅](https://f-droid.org/packages/com.github.olga_yakovleva.rhvoice.android), [eSpeakNG🌐](https://f-droid.org/packages/com.reecedunn.espeak)
 * URL Inspector: [URLCheck](https://f-droid.org/packages/com.trianguloy.urlchecker)
+* Wi-Fi Analyzer: [WiFiAnalyzer🌐](https://f-droid.org/packages/com.vrem.wifianalyzer)
 
 # Network
 * Filtering: [RethinkDNS](https://f-droid.org/packages/com.celzero.bravedns), [NetGuard](https://f-droid.org/packages/eu.faircode.netguard), [personalDNSfilter](https://f-droid.org/packages/dnsfilter.android)
@@ -146,35 +158,23 @@
 # Social
 * Email: [FairEmail](https://f-droid.org/packages/eu.faircode.email), [K-9 Mail](https://f-droid.org/packages/com.fsck.k9)
 * Email Chat: [Delta Chat](https://f-droid.org/packages/com.b44t.messenger)
-* Facebook: [Face Slim⛅🥸☠️](https://f-droid.org/packages/org.indywidualni.fblite)
 * IRC: [Revolution IRC](https://f-droid.org/packages/io.mrarm.irc)
-* Mastodon: [Mastodon](https://f-droid.org/packages/org.joinmastodon.android)
 * Matrix: [Element](https://f-droid.org/packages/im.vector.app)
 * Mumble: [Mumla🥸](https://f-droid.org/packages/se.lublin.mumla)
 * Other: [Briar🥸](https://f-droid.org/packages/org.briarproject.briar.android)
 * SIP: [Linphone](https://f-droid.org/packages/org.linphone)
 * SMS/MMS: [Silence⚠️☠️](https://f-droid.org/packages/org.smssecure.smssecure)
 * Telegram: [Telegram FOSS Fork](https://f-droid.org/packages/org.telegram.messenger)
-* Twitter: [Squawker⛅](https://f-droid.org/packages/org.ca.squawker)
 * XMPP: [Conversations⛅🥸](https://f-droid.org/packages/eu.siacs.conversations), [Cheogram⛅🥸](https://f-droid.org/packages/com.cheogram.android)
 
 # Social Forums
 * Hacker News: [Materialistic⛅☠️](https://f-droid.org/packages/io.github.hidroh.materialistic)
 * Reddit: [RedReader⛅🥸](https://f-droid.org/packages/org.quantumbadger.redreader)
 
-# Utilities
-* Battery Monitoring: [BatteryBot🌐☠️](https://f-droid.org/packages/com.darshancomputing.BatteryIndicatorPro)
-* Browser Updater: [FFUpdater](https://f-droid.org/packages/de.marmaro.krt.ffupdater)
-* Call Blocker: [Silence🌐☠️](https://f-droid.org/packages/me.lucky.silence)
-* Clipboard History: [Clip Stack🌐☠️](https://f-droid.org/packages/com.catchingnow.tinyclipboardmanager)
-* Contacts Sync: [DAVx5☔](https://f-droid.org/packages/at.bitfire.davdroid), [EteSync🥸](https://f-droid.org/packages/com.etesync.syncadapter)
-* EXIF Remover: [Scrambled Exif🌐](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif)
-* File Server: [primitive ftpd](https://f-droid.org/packages/org.primftpd)
-* Flashlight: [FlashDim🌐](https://f-droid.org/packages/com.cyb3rko.flashdim)
-* GPS Tester: [GPSTest](https://f-droid.org/packages/com.android.gpstest.osmdroid)
-* Screen Sharing: [Screen Stream](https://f-droid.org/packages/info.dvkr.screenstream)
-* Terminal: [Termux](https://f-droid.org/packages/com.termux)
-* Wi-Fi Analyzer: [WiFiAnalyzer🌐](https://f-droid.org/packages/com.vrem.wifianalyzer)
+# Social Networks
+* Facebook: [Face Slim⛅🥸☠️](https://f-droid.org/packages/org.indywidualni.fblite)
+* Mastodon: [Mastodon](https://f-droid.org/packages/org.joinmastodon.android)
+* Twitter: [Squawker⛅](https://f-droid.org/packages/org.ca.squawker)
 
 # Key
 * ☠️ No longer maintained (in some cases upstream may be alive)

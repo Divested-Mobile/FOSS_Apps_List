@@ -1,8 +1,8 @@
 # Customization
 * Icons: [Articons🌐](https://f-droid.org/packages/com.donnnno.arcticons), [Ameixa🌐](https://f-droid.org/packages/org.xphnx.ameixa)
-* Keyboard: [AnySoftKeyboard🌐](https://f-droid.org/packages/com.menny.android.anysoftkeyboard), [FlorisBoard🌐](https://f-droid.org/packages/dev.patrickgold.florisboard), [Unexpected Keyboard🌐](https://f-droid.org/packages/juloo.keyboard2)
+* Keyboard: [AnySoftKeyboard🌐](https://f-droid.org/packages/com.menny.android.anysoftkeyboard), [FlorisBoard🌐](https://f-droid.org/packages/dev.patrickgold.florisboard), [Unexpected Keyboard🌐](https://f-droid.org/packages/juloo.keyboard2), [Heliboard🌐](https://f-droid.org/packages/helium314.keyboard)
 * Launcher: [KISS🌐](https://f-droid.org/packages/fr.neamar.kiss)
-* Wallpaper: [Muzei](https://f-droid.org/packages/net.nurik.roman.muzei), [Mysplash☠️](https://f-droid.org/packages/com.wangdaye.mysplash), [WPGen🌐☠️](https://f-droid.org/packages/net.glsk.wpgen)
+* Wallpaper: [Muzei](https://f-droid.org/packages/net.nurik.roman.muzei), [Mysplash☠️](https://f-droid.org/packages/com.wangdaye.mysplash), [WPGen🌐☠️](https://f-droid.org/packages/net.glsk.wpgen), [Dark Mode Live Wallpaper🌐](https://f-droid.org/packages/com.github.cvzi.darkmodewallpaper), [Doodle🌐](https://f-droid.org/packages/xyz.zedler.patrick.doodle), [Wave Lines🌐](https://f-droid.org/packages/de.markusfisch.android.wavelines), [XScreenSaver](https://f-droid.org/packages/org.jwz.xscreensaver)
 
 # Development
 * Bugzilla: [BoogDroid☠️](https://f-droid.org/packages/me.johnmh.boogdroid)

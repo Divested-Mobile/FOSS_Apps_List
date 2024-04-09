@@ -24,7 +24,7 @@
 * Explorer: [Material Files](https://f-droid.org/packages/me.zhanghai.android.files)
 * Hosted: [Nextcloud⛅](https://f-droid.org/packages/com.nextcloud.client)
 * Synced: [Syncthing⛅☔](https://f-droid.org/packages/com.nutomic.syncthingandroid)
-* Transfer: [Warpinator](https://f-droid.org/packages/slowscript.warpinator), [croc](https://f-droid.org/packages/com.github.howeyc.crocgui), [Wormhole☠️](https://f-droid.org/packages/com.pavelsof.wormhole)
+* Transfer: [Warpinator](https://f-droid.org/packages/slowscript.warpinator), [croc](https://f-droid.org/packages/com.github.howeyc.crocgui), [Destiny](https://f-droid.org/packages/com.leastauthority.destiny), [OnionShare🥸](https://f-droid.org/packages/org.onionshare.android.fdroid)
 * Torrent Client: [LibreTorrent](https://f-droid.org/packages/org.proninyaroslav.libretorrent)
 * Torrent Client Manager: [Transdroid](https://f-droid.org/packages/org.transdroid.full)
 

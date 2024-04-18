@@ -107,6 +107,7 @@
 * RSS: [Nunti⛅](https://f-droid.org/packages/com.nunti), [Flym⛅☠️](https://f-droid.org/packages/net.frju.flym), [spaRSS⛅🥸☠️](https://f-droid.org/packages/net.etuldan.sparss.floss)
 * Ruler: [GuessIron🌐](https://f-droid.org/packages/de.indie42.guessiron)
 * Screen Sharing: [Screen Stream](https://f-droid.org/packages/info.dvkr.screenstream)
+* Speech to Text: [Sayboard⛅](https://f-droid.org/packages/com.elishaazaria.sayboard)
 * Smartwatch: [Gadgetbridge](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge)
 * Terminal: [Termux](https://f-droid.org/packages/com.termux)
 * Text to Speech: [RHVoice⛅](https://f-droid.org/packages/com.github.olga_yakovleva.rhvoice.android), [eSpeakNG🌐](https://f-droid.org/packages/com.reecedunn.espeak)

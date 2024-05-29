@@ -1,3 +1,12 @@
+> ### Key
+> * ☠️ No longer maintained (in some cases upstream may be alive)
+> * ⚠️ High risk OR has not been formally audited
+> * 🌐 No Network Permission
+> * ⛅ Data Friendly (Uses minimal data, provides limits, offers offline support, or respects Data Saver)
+> * 🥸 Proxy Support (eg. Tor, HTTP, SOCKS)
+> * ☔ Proxy Support, but is *not* recommended due to potential leaks (eg. location, real IP)
+> * 🔀 Not in official F-Droid repository
+
 # Customization
 * Icons: [Articons🌐](https://f-droid.org/packages/com.donnnno.arcticons), [Ameixa🌐](https://f-droid.org/packages/org.xphnx.ameixa)
 * Keyboard: [AnySoftKeyboard🌐](https://f-droid.org/packages/com.menny.android.anysoftkeyboard), [FlorisBoard🌐](https://f-droid.org/packages/dev.patrickgold.florisboard), [Unexpected Keyboard🌐](https://f-droid.org/packages/juloo.keyboard2), [Heliboard🌐](https://f-droid.org/packages/helium314.keyboard)
@@ -177,12 +186,3 @@
 * Facebook: [Face Slim⛅🥸☠️](https://f-droid.org/packages/org.indywidualni.fblite)
 * Mastodon: [Mastodon](https://f-droid.org/packages/org.joinmastodon.android)
 * Twitter: [Squawker⛅](https://f-droid.org/packages/org.ca.squawker)
-
-# Key
-* ☠️ No longer maintained (in some cases upstream may be alive)
-* ⚠️ High risk OR has not been formally audited
-* 🌐 No Network Permission
-* ⛅ Data Friendly (Uses minimal data, provides limits, offers offline support, or respects Data Saver)
-* 🥸 Proxy Support (eg. Tor, HTTP, SOCKS)
-* ☔ Proxy Support, but is *not* recommended due to potential leaks (eg. location, real IP)
-* 🔀 Not in official F-Droid repository
